@@ -1,0 +1,66 @@
+@font-face {
+    font-family: modern-pictograms;
+    src: url(../../fonts/modernpics.otf);
+}
+
+.directory-group{
+	list-style:none;
+	padding:0em;
+}
+
+p, li, h1, h2 ,h3, h4, h5, h6, li, a{
+	-webkit-font-smoothing:antialiased;
+	text-rendering:optimizeLegibility;
+}
+
+p, li, {
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
+	font-size:14px;
+	line-height:24px;
+}
+
+h1, h2,h3,h4,h5, p strong, .directory-header, .logo{
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 700; font-style: normal;
+}
+
+h5{
+	margin-bottom:0em;
+	font-size:12px;
+}
+
+.contact-info li{
+	font-size:13px;
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 700; font-style: normal;
+}
+
+.department-link{
+	font-size:18px;
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
+}
+
+.login h1{
+	font-size:62px;
+	text-transform:uppercase;
+	color:white;
+	@media only screen and (max-width: 767px){
+		font-size:32px;
+	}
+}
+
+h2{
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
+}
+
+input{
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
+}
+
+a.logo{
+	font-size:24px;
+	text-transform:uppercase;
+}
+
+
+.login ::-webkit-input-placeholder{
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
+}

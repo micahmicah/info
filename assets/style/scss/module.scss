@@ -1,0 +1,205 @@
+// Sass colors
+$orange: #ff6633;
+$dark-orange:#cd3e0b;
+$kelly-green: #009933;
+$light-gray: rgb(250,250,250);
+$middle-gray:rgb(230,230,230);
+$dark-gray:#666;
+
+body{
+	margin-top:6em;
+}
+
+a:link, a:visited{
+	text-decoration:none;
+}
+
+.directory-group li{
+	float:left;
+	width:50%;
+}
+
+.directory-group li a, .quick-links li a, .classifieds li a, .events li a{
+	display:block;
+	padding:0.25em 0;
+} 
+
+.directory-group li a:link, 
+.directory-group li a:visited, 
+.quick-links li a:link, 
+.quick-links li a:visited, 
+.classifieds a:link, 
+.classifieds a:visited,
+.events li a:link,
+.events li a:visited{
+	text-decoration:none;
+	color:$dark-gray;
+}
+
+nav{
+	padding:1em 0em;
+	position:fixed;
+	width:100%;
+	z-index:2;
+	top:0em;
+	border-bottom:2px solid $dark-orange;
+}
+
+a.logo{
+
+}
+
+.directory-group li a:hover{
+	background:$light-gray;
+	color:$orange;
+}
+
+li.directory-header{
+	float:none;
+}
+
+.directory-group{
+	margin-bottom:1em;
+}
+
+.quick-links, .classifieds ul, .events ul, .contact-info ul{
+	list-style:none;
+	padding-left:0em;
+}
+
+.quick-links li{
+	float:left;
+	width:50%;
+}
+
+
+.directory h3:after{
+	content:"Ü";
+	font-family:modern-pictograms;
+	font-size:1.75em;
+}
+
+
+// classifieds
+.classifieds{
+	border-bottom:1px solid $light-gray;
+}
+
+.classifieds h3:after{
+	content:"i";
+	font-family:modern-pictograms;
+	font-size:1.75em;
+	-webkit-font-smoothing:antialiased;
+}
+
+
+
+// events
+.events h3:after{
+	content:"ç";
+	font-family:modern-pictograms;
+	font-size:1.75em;
+	-webkit-font-smoothing:antialiased;
+}
+
+
+// contact
+.contact-info ul{
+	margin-top:0em;
+
+}
+
+.department-link:link, .department-link:visited{
+	color:$orange;	
+}
+
+
+// search
+
+input[type="search"]{
+	background:$orange;
+	border:1px solid $dark-orange;
+	padding:0.25em;
+	font-size:13px;
+	-webkit-transition:all 0.2s ease-in-out;
+	color:$dark-orange;
+}
+
+input[type="search"]:focus{
+	background:white;
+	outline-style:none;
+	color:$dark-gray;
+}
+
+::-webkit-input-placeholder{
+	font-family:modern-pictograms;
+	font-size:1.5em;
+	color:$dark-orange;
+}
+
+
+// interior
+.bread-crumbs{
+	border-bottom:1px solid $middle-gray;
+}
+
+.bread-crumbs ul{
+	padding:0em;
+	list-style:none;
+}
+
+.bread-crumbs ul li{
+	float:left;
+	margin-right:0.5em;
+	font-size:12px;
+}
+
+.bread-crumbs ul li:first-child:after{
+	content:"/";
+	margin-left:0.5em;
+	color:$dark-gray;
+}
+
+.bread-crumbs ul li a:link, .bread-crumbs ul li a:visited{
+	color:$dark-gray;
+}
+
+
+// login screen
+body.login{
+	background:$orange;
+}
+
+.login input[type="text"]{
+	margin-bottom:1em;
+	// font-size:14px;
+	padding:1em;
+	background:$orange;
+	border:1px solid $dark-orange;
+	-webkit-transition: background 0.2s ease-in-out;
+}
+
+.login input[type="text"]:focus{
+	background:white;
+	outline-style:none;
+}
+
+.login input[type="submit"]{
+	padding:1em;
+	background:white;
+	color:$orange;
+	border:1px solid $dark-orange;
+}
+
+.login input[type="submit"]:active{
+	background:$dark-orange;
+	outline-style:none;
+}
+
+
+.login ::-webkit-input-placeholder{
+	font-size:16px;
+	color:$dark-orange;
+}
+
+

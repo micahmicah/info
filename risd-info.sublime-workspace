@@ -1,0 +1,1871 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"back",
+				"back-issues"
+			],
+			[
+				"intro",
+				"intro_toggle"
+			],
+			[
+				"description",
+				"description_top"
+			],
+			[
+				"get",
+				"getBoundingClientRect"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"dark",
+				"dark-to-light-fill"
+			],
+			[
+				"color",
+				"colorFade"
+			],
+			[
+				"an",
+				"antialiased"
+			],
+			[
+				"program-",
+				"program-year"
+			],
+			[
+				"program",
+				"program-sequence"
+			],
+			[
+				"sub",
+				"subNav"
+			],
+			[
+				"found-",
+				"foundation-studies-color-main"
+			],
+			[
+				"depar",
+				"departmentList"
+			],
+			[
+				"take",
+				"take-action"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"department",
+				"departmentColumnList"
+			],
+			[
+				"history",
+				"history-of-art-color-highlight"
+			],
+			[
+				"history-",
+				"history-of-art-color-main"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"dep",
+				"academics-department-colors"
+			],
+			[
+				"fa",
+				"faculty-list"
+			],
+			[
+				"img",
+				"img-break"
+			],
+			[
+				"css",
+				"toggleClass"
+			],
+			[
+				"mobile",
+				"mobile-hidden"
+			],
+			[
+				"four-colum",
+				"four-column-two"
+			],
+			[
+				"four",
+				"four-column-one"
+			],
+			[
+				"ke",
+				"key-to-innovation"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"creativity",
+				"creativity-is-a-skill"
+			],
+			[
+				"happen",
+				"happening-title"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"creativ",
+				"creativity-title"
+			],
+			[
+				"creat",
+				"creativity-title"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"happ",
+				"happening-title"
+			],
+			[
+				"hap",
+				"happening-title"
+			],
+			[
+				"ti",
+				"title-illustration"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"innovation",
+				"innovation-title"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fac",
+				"facultyProfile"
+			],
+			[
+				"grid-",
+				"grid-six-column"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"bulb",
+				"bulbSize"
+			],
+			[
+				"Stroke",
+				"strokeWidth"
+			],
+			[
+				"stroke",
+				"strokeColor"
+			],
+			[
+				"my",
+				"myCircle"
+			],
+			[
+				"y",
+				"yCenter"
+			],
+			[
+				"x",
+				"xCenter"
+			],
+			[
+				"image",
+				"image-break"
+			],
+			[
+				"main-nav",
+				"main-nav-container"
+			],
+			[
+				"making-pro",
+				"making-process-step"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"flexd",
+				"flex-direction-nav"
+			],
+			[
+				"ac",
+				"academics-color-highlight"
+			],
+			[
+				"academics",
+				"academics-color-main"
+			],
+			[
+				"teaching",
+				"teaching-learning-art-design-color-highlight"
+			],
+			[
+				"archite",
+				"architecture-color-main"
+			],
+			[
+				"architectu",
+				"architecture-color-highlight"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"getin",
+				"getInTouchResponse"
+			],
+			[
+				"geti",
+				"getInTouchResponse"
+			],
+			[
+				"else",
+				"else	else"
+			],
+			[
+				"dragg",
+				"draggable2"
+			],
+			[
+				"fill",
+				"fill	fill grey"
+			],
+			[
+				"bezier",
+				"bezier	bezier"
+			],
+			[
+				"sprite",
+				"spriteLength"
+			],
+			[
+				"var",
+				"var	var"
+			],
+			[
+				"setup",
+				"setup	setup"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9065,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 5904 files for \"just getting started.\"\n\n/Users/mbarrett/WORK/2014/18-info/info/_layouts/readme.md:\n   22  \n   23  <div class=\"default\">\n   24:     <p>Just getting started.</p>\n   25  </div>\n   26  ```\n\n/Users/mbarrett/WORK/2014/18-info/info/_site/index.html:\n   25          <![endif]-->\n   26  \n   27:         <p>Just getting started.</p>\n   28  \n   29  \n\n2 matches across 2 files\n\n\nSearching 5904 files for \"<ul class=\"directory-group\">\"\n\n/Users/mbarrett/WORK/2014/18-info/info/index.html:\n   26              <h4>Full Directory</h4>\n   27  \n   28:             <ul class=\"directory-group\">\n   29                  <li class=\"directory-header\">A</li>\n   30                  <li><a href=\"#\">Academic Advising</a></li>\n   ..\n   38              </ul>\n   39  \n   40:             <ul class=\"directory-group\">\n   41                  <li>B</li>\n   42                  <li><a href=\"#\">BEB Digital Fabrication</a></li>\n   ..\n   46              </ul>\n   47  \n   48:             <ul class=\"directory-group\">\n   49                  <li><a href=\"#\">C</a></li>\n   50                  <li><a href=\"#\">Campus Exhibitions</a></li>\n   ..\n   64              </ul>\n   65  \n   66:             <ul class=\"directory-group\">\n   67                  <li><a href=\"#\">D</a></li>\n   68                  <li><a href=\"#\">Digital + Media</a></li>\n   69                  <li><a href=\"#\">Dining + Catering</a></li>\n   70              </ul>\n   71:             <ul class=\"directory-group\">\n   72                  <li><a href=\"#\">E</a></li>\n   73                  <li><a href=\"#\">Emergency Preparedness</a></li>\n   ..\n   75                  <li><a href=\"#\">European Honors Program</a></li>\n   76              </ul>\n   77:             <ul class=\"directory-group\">\n   78                  <li><a href=\"#\">F</a></li>\n   79                  <li><a href=\"#\">Facilities Management</a></li>\n   ..\n   88              </ul>\n   89  \n   90:             <ul class=\"directory-group\">\n   91                  <li><a href=\"#\">G</a></li>\n   92                  <li><a href=\"#\">Gelman Gallery</a></li>\n   ..\n   99              </ul>\n  100  \n  101:             <ul class=\"directory-group\">\n  102                  <li><a href=\"#\">H</a></li>\n  103                  <li><a href=\"#\">Health Services</a></li>\n  ...\n  107              </ul>\n  108  \n  109:             <ul class=\"directory-group\">\n  110                  <li><a href=\"#\">I</a></li>\n  111                  <li><a href=\"#\">Illustration</a></li>\n  ...\n  117              </ul>\n  118  \n  119:             <ul class=\"directory-group\">\n  120                  <li><a href=\"#\">J</a></li>\n  121                  <li><a href=\"#\">Jewelry + Metalsmithing</a></li>\n  ...\n  123              </ul>   \n  124  \n  125:             <ul class=\"directory-group\">\n  126                  <li><a href=\"#\">L</a></li>\n  127                  <li><a href=\"#\">Landscape Architecture</a></li>\n  ...\n  131              </ul>\n  132  \n  133:             <ul class=\"directory-group\">\n  134                  <li><a href=\"#\">M</a></li>\n  135                  <li><a href=\"#\">Mailroom</a></li>\n  ...\n  140              </ul>\n  141  \n  142:             <ul class=\"directory-group\">\n  143                  <li><a href=\"#\">N</a></li>\n  144                  <li><a href=\"#\">Nature Lab</a></li>\n  145              </ul>\n  146              \n  147:             <ul class=\"directory-group\">\n  148                  <li><a href=\"#\">O</a></li>\n  149                  <li><a href=\"#\">Office of Information Technology</a></li>\n  150              </ul>\n  151  \n  152:             <ul class=\"directory-group\">\n  153                  <li><a href=\"#\">P</a></li>\n  154                  <li><a href=\"#\">Painting</a></li>\n  ...\n  162                  <li><a href=\"#\">Purchasing</a></li>\n  163              </ul>\n  164:             <ul class=\"directory-group\">\n  165                  <li><a href=\"#\">R</a></li>\n  166                  <li><a href=\"#\">Registrar's Office</a></li>\n  ...\n  171              </ul>     \n  172  \n  173:             <ul class=\"directory-group\">\n  174                  <li><a href=\"#\">S</a></li>\n  175                  <li><a href=\"#\">Sculpture</a></li>\n  ...\n  182                  <li><a href=\"#\">Student Development + Counseling</a></li>\n  183              </ul>\n  184:             <ul class=\"directory-group\">\n  185                  <li><a href=\"#\">T</a></li>\n  186                  <li><a href=\"#\">Teaching and Learning in Art + Design</a></li>\n  ...\n  190                  <li><a href=\"#\">Trustee Relations</a></li>\n  191              </ul>\n  192:             <ul class=\"directory-group\">\n  193                  <li><a href=\"#\">W</a></li>\n  194                  <li><a href=\"#\">Watermark Cafe</a></li>\n\n/Users/mbarrett/WORK/2014/18-info/info/_site/index.html:\n   57              <h4>Full Directory</h4>\n   58  \n   59:             <ul class=\"directory-group\">\n   60                  <li class=\"directory-header\">A</li>\n   61                  <li><a href=\"#\">Academic Advising</a></li>\n   ..\n   69              </ul>\n   70  \n   71:             <ul class=\"directory-group\">\n   72                  <li>B</li>\n   73                  <li><a href=\"#\">BEB Digital Fabrication</a></li>\n   ..\n   77              </ul>\n   78  \n   79:             <ul class=\"directory-group\">\n   80                  <li><a href=\"#\">C</a></li>\n   81                  <li><a href=\"#\">Campus Exhibitions</a></li>\n   ..\n   95              </ul>\n   96  \n   97:             <ul class=\"directory-group\">\n   98                  <li><a href=\"#\">D</a></li>\n   99                  <li><a href=\"#\">Digital + Media</a></li>\n  100                  <li><a href=\"#\">Dining + Catering</a></li>\n  101              </ul>\n  102:             <ul class=\"directory-group\">\n  103                  <li><a href=\"#\">E</a></li>\n  104                  <li><a href=\"#\">Emergency Preparedness</a></li>\n  ...\n  106                  <li><a href=\"#\">European Honors Program</a></li>\n  107              </ul>\n  108:             <ul class=\"directory-group\">\n  109                  <li><a href=\"#\">F</a></li>\n  110                  <li><a href=\"#\">Facilities Management</a></li>\n  ...\n  119              </ul>\n  120  \n  121:             <ul class=\"directory-group\">\n  122                  <li><a href=\"#\">G</a></li>\n  123                  <li><a href=\"#\">Gelman Gallery</a></li>\n  ...\n  130              </ul>\n  131  \n  132:             <ul class=\"directory-group\">\n  133                  <li><a href=\"#\">H</a></li>\n  134                  <li><a href=\"#\">Health Services</a></li>\n  ...\n  138              </ul>\n  139  \n  140:             <ul class=\"directory-group\">\n  141                  <li><a href=\"#\">I</a></li>\n  142                  <li><a href=\"#\">Illustration</a></li>\n  ...\n  148              </ul>\n  149  \n  150:             <ul class=\"directory-group\">\n  151                  <li><a href=\"#\">J</a></li>\n  152                  <li><a href=\"#\">Jewelry + Metalsmithing</a></li>\n  ...\n  154              </ul>   \n  155  \n  156:             <ul class=\"directory-group\">\n  157                  <li><a href=\"#\">L</a></li>\n  158                  <li><a href=\"#\">Landscape Architecture</a></li>\n  ...\n  162              </ul>\n  163  \n  164:             <ul class=\"directory-group\">\n  165                  <li><a href=\"#\">M</a></li>\n  166                  <li><a href=\"#\">Mailroom</a></li>\n  ...\n  171              </ul>\n  172  \n  173:             <ul class=\"directory-group\">\n  174                  <li><a href=\"#\">N</a></li>\n  175                  <li><a href=\"#\">Nature Lab</a></li>\n  176              </ul>\n  177              \n  178:             <ul class=\"directory-group\">\n  179                  <li><a href=\"#\">O</a></li>\n  180                  <li><a href=\"#\">Office of Information Technology</a></li>\n  181              </ul>\n  182  \n  183:             <ul class=\"directory-group\">\n  184                  <li><a href=\"#\">P</a></li>\n  185                  <li><a href=\"#\">Painting</a></li>\n  ...\n  193                  <li><a href=\"#\">Purchasing</a></li>\n  194              </ul>\n  195:             <ul class=\"directory-group\">\n  196                  <li><a href=\"#\">R</a></li>\n  197                  <li><a href=\"#\">Registrar's Office</a></li>\n  ...\n  202              </ul>     \n  203  \n  204:             <ul class=\"directory-group\">\n  205                  <li><a href=\"#\">S</a></li>\n  206                  <li><a href=\"#\">Sculpture</a></li>\n  ...\n  213                  <li><a href=\"#\">Student Development + Counseling</a></li>\n  214              </ul>\n  215:             <ul class=\"directory-group\">\n  216                  <li><a href=\"#\">T</a></li>\n  217                  <li><a href=\"#\">Teaching and Learning in Art + Design</a></li>\n  ...\n  221                  <li><a href=\"#\">Trustee Relations</a></li>\n  222              </ul>\n  223:             <ul class=\"directory-group\">\n  224                  <li><a href=\"#\">W</a></li>\n  225                  <li><a href=\"#\">Watermark Cafe</a></li>\n\n38 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 8952,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 353,
+				"line_ending": "Unix",
+				"name": "default.html"
+			}
+		},
+		{
+			"file": "_includes/nav.html",
+			"settings":
+			{
+				"buffer_size": 176,
+				"line_ending": "Unix",
+				"name": "<nav></nav>"
+			}
+		},
+		{
+			"file": "assets/style/scss/theme.scss",
+			"settings":
+			{
+				"buffer_size": 41,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/style/scss/module.scss",
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/style/scss/type.scss",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Processing/Processing.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mbarrett/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/mbarrett/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mbarrett/WORK/2014/18-info/info/_includes/footer.html",
+		"/Users/mbarrett/WORK/2014/18-info/info/_includes/top.html",
+		"/Users/mbarrett/WORK/2014/18-info/info.risd.edu home page.html",
+		"/Users/mbarrett/WORK/2014/15-Nature-Lab/nature-lab/.sass-cache/e066cd09e8a9ead6644095af49584164c38a956b/theme.scssc",
+		"/Users/mbarrett/WORK/2014/15-Nature-Lab/nature-lab/node_modules/browserify/node_modules/derequire/node_modules/esprima-fb/test/compat.html",
+		"/Users/mbarrett/WORK/2014/15-Nature-Lab/nature-lab/assets/style/scss/grid.scss",
+		"/Users/mbarrett/WORK/2014/15-Nature-Lab/nature-lab/assets/style/scss/theme.scss",
+		"/Users/mbarrett/WORK/2014/15-Nature-Lab/nature-lab/_includes/top.html",
+		"/Users/mbarrett/WORK/2014/15-Nature-Lab/nature-lab/_includes/nav.html",
+		"/Users/mbarrett/WORK/2014/15-Nature-Lab/nature-lab/Makefile",
+		"/Users/mbarrett/WORK/2014/15-Nature-Lab/nature-lab/assets/style/scss/type.scss",
+		"/Users/mbarrett/WORK/2014/15-Nature-Lab/nature-lab/index.html",
+		"/Users/mbarrett/WORK/2014/15-Nature-Lab/nature-lab/_includes/footer.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/.sass-cache/4735cadf7f74b35835dd25fc618669454d82117c/theme.scssc",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/assets/js/src/index.js",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/assets/style/scss/type.scss",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/title-ix-coordinators/index.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/_includes/nav.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/assets/img/risd-seal.svg",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/information-and-procedures/index.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/sexual-misconduct-policy/index.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/assets/img/risd-seal-small.svg",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/assets/style/scss/module.scss",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/assets/style/scss/theme.scss",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/_layouts/default.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/_includes/top.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/resources/index.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/employee-reporting-options/index.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/your-rights/index.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/_includes/footer.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/assets/style/scss/site.scss",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/assets/img/nav-icon.svg",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/node_modules/browserify/node_modules/browser-resolve/test/modules.js",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/general-provisions/index.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/assets/style/scss/grid.scss",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/_config.yml",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/_site/sexual-misconduct-policy/index.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/_site/general-provisions/index.html",
+		"/Users/mbarrett/WORK/2014/17-TITLE-IX/title-ix/_includes/readme.md",
+		"/Users/mbarrett/Desktop/shared-voices/style/modules.styl",
+		"/Users/mbarrett/Desktop/shared-voices/style/reset.styl",
+		"/Users/mbarrett/Desktop/shared-voices/style/grid.styl",
+		"/Users/mbarrett/Desktop/shared-voices/style/layout.styl",
+		"/Users/mbarrett/Dropbox/Scholastic Email/PROCESS/steam-teacher.html",
+		"/Users/mbarrett/Desktop/junk.html",
+		"/Users/mbarrett/Dropbox/Scholastic Email/PROCESS/SNP_Template_2014.html",
+		"/Users/mbarrett/Dropbox/Campus Flags/DOCUMENTS/buildling list.txt",
+		"/Applications/MAMP/htdocs/digital-designer/css/skeleton.css",
+		"/Applications/MAMP/htdocs/digital-designer/css/layout.css",
+		"/Applications/MAMP/htdocs/digital-designer/index.html",
+		"/Applications/MAMP/htdocs/digital-designer/LICENSE.md",
+		"/Applications/MAMP/htdocs/digital-designer/css/main.css",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/academics/graduate-studies/research-teaching/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/graphic-design/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/academics/graduate-studies/thesis/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/academics/graduate-studies/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_layouts/academic_base.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/header.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_site/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/academics/graphic-design/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/academics/graphic-design/graduate/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/about/nav.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/about/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/about/president/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/admissions/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/admissions/request-information/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/graphic-design/modules/faculty-profile.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/main/modules/graduate-studies-opening-statement.html",
+		"/Users/mbarrett/Dropbox/TEMPLATES/E-MAIL TEMPLATE/responsive-email-template.html",
+		"/Users/mbarrett/Dropbox/President's Office/end of year invite/rosanne-sf.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/assets/img/testing/pres-selection-process-3.svg",
+		"/Users/mbarrett/Dropbox/President's Office/end of year invite/test.html",
+		"/Users/mbarrett/Dropbox/EDU Image Assets/ICONS/give-to-risd.svg",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/apparel-design/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/architecture/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/architecture-design/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/brown-risd/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/ceramics/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/digital-media/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/film-animation-video/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/fine-arts/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/foundation-studies/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/furniture-design/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/glass/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/graduate-studies/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/history-of-art-visual-culture/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/history-philosophy-social-sciences/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/illustration/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/industrial-design/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/interior-architecture/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/landscape-architecture/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/liberal-arts/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/literary-arts-studies/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/photography/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/printmaking/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/sculpture/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/teaching-learning-art-design/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/textiles/modules/department-link.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/admissions/modules/department-link.html",
+		"/Users/mbarrett/WORK/2014/12 IE/Texas Roundup 2014/DOcuments/Save the Date",
+		"/Users/mbarrett/WORK/2014/06 Shared Voices/E-MAILS/announcement/sv-community-inlined.html",
+		"/Users/mbarrett/WORK/2014/06 Shared Voices/E-MAILS/announcement/sv-announcement-01.html",
+		"/Users/mbarrett/WORK/2014/06 Shared Voices/E-MAILS/announcement/sv-announcment.html",
+		"/Users/mbarrett/WORK/2014/06 Shared Voices/E-MAILS/announcement/sv-announcement.html",
+		"/Users/mbarrett/Desktop/blarf.html",
+		"/Users/mbarrett/WORK/2014/06 Shared Voices/SV_WEBSITE 14/index.html",
+		"/Users/mbarrett/WORK/2013/03_STEAM/WEBSITE/MAP/CODE/steam/static/styles/scss/map.scss",
+		"/Users/mbarrett/WORK/2013/03_STEAM/WEBSITE/MAP/CODE/steam/Procfile.dev",
+		"/Users/mbarrett/WORK/2013/19 Annual Fund/EMAILS/EM3/af-em3-inlined.html",
+		"/Users/mbarrett/WORK/2014/06 Shared Voices/E-MAILS/announcement/sv-trustee-inlined.html",
+		"/Users/mbarrett/WORK/2013/19 Annual Fund/EMAILS/EM3/af-em3.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/foundation-studies/modules/degree-programs.html",
+		"/Users/mbarrett/Desktop/multiply.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/photography/modules/graduate/program-director.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/interior-architecture/modules/faculty/faculty.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/photography/modules/graduate/admission-requirements.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/photography/modules/student-profile-right.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/photography/modules/undergraduate/community.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/main/modules/liberal-arts-hero-01.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/academics/liberal-arts/index.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/liberal-arts/modules/statement-01.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/textiles/modules/undergraduate/curriculum.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/textiles/modules/undergraduate/learning-environment.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/textiles/modules/undergraduate/community.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/textiles/modules/undergraduate/overview.html",
+		"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes/academics/textiles/modules/graduate/program-director.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"resources/index.html",
+			"",
+			"*department-link.html",
+			"",
+			"index.html",
+			"",
+			"*curriculum.html",
+			"*curriculum",
+			"*admission-requirements.html",
+			"*curriculum.html",
+			"",
+			"*contact.html",
+			"*curriculum.html",
+			"*.scss",
+			"",
+			"*curriculum.html",
+			"*contact.html",
+			"*curriculum-test.html",
+			"_includes/academics/illustration/modules/undergraduate/curriculum-test.html",
+			"_includes/academics/film-animation-video/modules/undergraduate/curriculum.html",
+			"*curriculum.html",
+			"/Users/mbarrett/WORK/2013/04 RISD EDU/CODE/edu-proto/_includes",
+			"*edu-proto/academics/_includes/academics/",
+			"*edu-proto/academics/_includes/",
+			"edu-proto/academics/_includes/",
+			"edu-proto/academics/_includes",
+			"academics-interior.scss",
+			"curriculum-test.html",
+			"",
+			"*curriculum-test.html",
+			"*contact.html",
+			"*curriculum.html",
+			"*department-link.html",
+			"*undergraduate/curriculum.html",
+			"*undergraduate/admission-requirements.html",
+			"*.scss",
+			".scss",
+			"",
+			"_includes/academics/foundation-studies/modules/faculty/faculty.html",
+			"_includes/academics/foundation-studies/faculty/faculty.html",
+			"",
+			"interior-architecture/modules/gallery-student-work.html",
+			"*overview.html",
+			"",
+			"*nav.html",
+			"interior-architecture/modules/gallery-studio.html",
+			"interior-architecture/modules/gallery-student-work.html",
+			"jewelry-metalsmithing/modules/gallery-student-work.html",
+			"jewelry-metalsmithing/modules/gallery-studio.html",
+			"landscape-architecture/modules/gallery-studio.html",
+			"landscape-architecture/modules/gallery-student-work.html",
+			"painting/modules/gallery-student-work.html",
+			"painting/modules/gallery-studio.html",
+			"photography/modules/gallery-studio.html",
+			"printmaking/modules/gallery-studio.html",
+			"sculpture/modules/gallery-studio.html",
+			"textiles/modules/gallery-studio.html",
+			"textiles/gallery-studio.html",
+			"*.scss",
+			"*faculty.html",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"department-filter-b.html",
+			"",
+			"*.scss",
+			".scss",
+			"department-filter-b.html",
+			".scss",
+			"",
+			"department-filter-b.html",
+			"department-list-b.html",
+			"department-list-b",
+			"",
+			"graphic-design/modules/faculty/faculty.html",
+			"textiles/modules/faculty/faculty.html",
+			"teaching-learning-art-design/modules/faculty/faculty.html",
+			"sculpture/modules/faculty/faculty.html",
+			"printmaking/modules/faculty/faculty.html",
+			"photography/modules/faculty/faculty.html",
+			"painting/modules/faculty/faculty.html",
+			"landscape-architecture/modules/faculty/faculty.html",
+			"jewelry-metalsmithing/modules/faculty/faculty.html",
+			"interior-architecture/modules/faculty/faculty.html",
+			"industrial-design/modules/faculty/faculty.html",
+			"illustration/modules/faculty/faculty.html",
+			"glass/modules/faculty/faculty.html",
+			"furniture-design/modules/faculty/faculty.html",
+			"film-animation-video/modules/faculty/faculty.html",
+			"digital-media/modules/faculty/faculty.html",
+			"ceramics/modules/faculty/faculty.html",
+			"architecture/modules/faculty/faculty.html",
+			"apparel-design/modules/faculty/faculty.html",
+			"apparel-design/faculty.html",
+			"faculty.html",
+			"nav.html",
+			"",
+			"*.scss",
+			"Open files",
+			"*.scss",
+			"",
+			"gallery-student-work.html",
+			"",
+			"*/nav.html",
+			"",
+			"<open files>",
+			"*/department-filter.html",
+			"*/nav.html",
+			"nav.html",
+			"nav",
+			"",
+			"academics.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<ul class=\"directory-group\">",
+			"Nature",
+			"N",
+			"just getting started.",
+			"flood",
+			".logo",
+			"expanded",
+			"main-content",
+			"<a href=\"tel:",
+			"stalking",
+			"here",
+			"img",
+			"<font>",
+			"font",
+			"arial",
+			"Helvetica, Arial",
+			"skills",
+			"small-cap",
+			"better",
+			"h3",
+			"p, li",
+			"#description",
+			"p, li",
+			".apply",
+			"h3",
+			"button",
+			"campaign based",
+			"small-cap",
+			"growing",
+			".text",
+			"300px",
+			"red",
+			"orange",
+			".text",
+			"text",
+			"padding",
+			"width",
+			"-webkit-font-smoothing",
+			".text",
+			".container",
+			".text",
+			"related links",
+			"RELATED LINKS",
+			"related links",
+			"streaming online",
+			"last",
+			"'",
+			"network-count",
+			".network-count",
+			".network",
+			"Shared Voices",
+			"Wired",
+			"building the",
+			"white-dot-mobile",
+			"header",
+			"#intro",
+			"place-holder",
+			"weather",
+			"law",
+			"andy",
+			"public",
+			"physicist",
+			"pink",
+			"conversation",
+			"visits",
+			".the:before",
+			".together:after",
+			"together:before",
+			"dark-to-light-fill",
+			"dark-to-light",
+			"4ss",
+			"dark-to-light 2.75",
+			"dark-to-light 2s",
+			"dark-to-light 3s",
+			"dark-to-light 2.5s",
+			"0%",
+			"purple",
+			"transition",
+			"green",
+			"offset",
+			"header",
+			"sustainable",
+			":after",
+			"sustainable:after",
+			"short",
+			".sustainable",
+			"p, a",
+			"#intro p",
+			"flood",
+			"p, a",
+			"tall",
+			"mega",
+			"color",
+			"color bar",
+			"shapes",
+			"bio",
+			"#intro",
+			"flood",
+			"clear",
+			".blue",
+			"quarter",
+			"#bio",
+			".bio",
+			"a.button-link",
+			"h4",
+			"#intro",
+			"border",
+			".building",
+			"green",
+			"h2",
+			".the",
+			".sustainable",
+			"header",
+			".svg",
+			"header",
+			".building",
+			"together",
+			"building",
+			".sustainable",
+			"header",
+			"h2",
+			".the",
+			"header",
+			".the",
+			"intro",
+			"red",
+			"building",
+			"blue"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"un-related links",
+			"4s",
+			"dark-to-light 4s",
+			"dark-to-light 2.75s",
+			"dark-to-light 2s",
+			"short",
+			"<h4 class=\"program-year\">MFA second year</h4>",
+			"<li>statement of purpose</li>",
+			"<li>portfolio of work",
+			"<li>academic transcripts</li>",
+			"<li>application form + fee</li>",
+			"MFA second year",
+			"MFA first year",
+			"Jewelry",
+			"eight columns",
+			"three columns",
+			"<li>RISD Admissions</li>",
+			"For general questions about the application process, contact:",
+			"<p>For general questions about applying, contact:</p>",
+			"Non-major",
+			"<li>Open electives</li>",
+			"<li>Open elective</li>",
+			"<li>Studio electives</li>",
+			"seminar</li>",
+			"<li>Graduate seminar</li>",
+			"<li>Liberal Arts courses</li>",
+			"<h4 class=\"program-year\">Foundation Studies</h4>",
+			"<h2>Contacts</h2>",
+			"<li>Liberal Arts classes</li>",
+			"\n<li>Liberal Arts classes</li>",
+			"Intermediate studio",
+			"<li>Open elective</li>",
+			"Open elective",
+			"Studio elective",
+			"Animation elective",
+			"<li>Non-major studio elective</li>",
+			"<li>Liberal Arts classes</li>",
+			"Liberal Arts classes",
+			"<div class=\"first column five\">\n<h4 class=\"program-year\">Second Year</h4>",
+			"<div class=\"first column five\">\n<h4 class=\"program-year\">First Year</h4>",
+			"<div class=\"first column five\">\n<h4 class=\"program-year>First Year</h4>",
+			"<h4 class=\"program-year\">First Year</h4>",
+			"<h4 class=\"program-year>First Year</h4>",
+			"li.program-semester-title",
+			"li.program-sequence-title",
+			"ul.program-semester",
+			"<li class=\"program-semester-title\">",
+			"<ul class=\"program-semester\">	",
+			"<ul class=\"program-sequence\">	",
+			"<h2>Contact</h2>",
+			"Non/Major Studio or Open Elective",
+			"non/major studio or open elective",
+			"<div class=\"box links\">\n<div class=\"box links clearfix\"><p class=\"list-description\">Related Links</p>",
+			"<div class=\"box links\">\n	<p class=\"list-description\">Related Links</p>",
+			"<td>Non-Major Studio Elective</td>",
+			"<div class=\"box clearfix admission-requirements\">",
+			"Z</li>",
+			"W</li>",
+			"U</li>",
+			"S</li>",
+			"R</li>",
+			"P</li>",
+			"N</li>",
+			"M</li>",
+			"L</li>",
+			"K</li>",
+			"J</li>",
+			"H</li>",
+			"G</li>",
+			"F</li>",
+			"E</li>",
+			"D</li>",
+			"C</li>",
+			"B</li>",
+			"A</li>",
+			"A",
+			"foundation-studies/faculty",
+			"",
+			"/",
+			"img/interior-architecture/studio/",
+			"img/interior-architecture/student-work/",
+			"img/interior-architecture/studio/",
+			"img/interior-architecture/student-work/graduate/",
+			"img/interior-architecture/student-work/",
+			"img/jewelry-metalsmithing/student-work/",
+			"img/jewelry-metalsmithing/studio/",
+			"img/landscape-architecture/studio",
+			"img/landscape-architecture/student-work/graduate",
+			"img/landscape-architecture/student-work",
+			"img/painting/student-work",
+			"img/painting/studio",
+			"img/photography/studio",
+			"img/printmaking/studio",
+			"img/sculpture/studio",
+			"img/textiles/studio",
+			"<li>Z</li>",
+			"<li>Y</li>",
+			"<li>X</li>",
+			"<li>W</li>",
+			"<li>V</li>",
+			"<li>U</li>",
+			"<li>T</li>",
+			"<li>S</li>",
+			"<li>R</li>",
+			"<li>Q</li>",
+			"<li>P</li>",
+			"<li>O</li>",
+			"<li>N</li>",
+			"<li>M</li>",
+			"<li>L</li>",
+			"<li>K</li>",
+			"<li>J</li>",
+			"<li>I</li>",
+			"<li>H</li>",
+			"<li>G</li>",
+			"<li>F</li>",
+			"<li>E</li>",
+			"<li>D</li>",
+			"<li>C</li>",
+			"<li>B</li>",
+			"<li>A</li>",
+			"department-list",
+			"<li class=\"depts clearfix\">",
+			"href=\"{{site.siteurl}}/academics/\"",
+			"ul class=\"degrees clearfix\"",
+			"<li class=\"\"><a href=\"#\">concentration",
+			"A",
+			"<li class=\"grad\"><a href=\"#\">MFA"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 9065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2072,
+								2072
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 8952,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										160,
+										181
+									],
+									[
+										323,
+										344
+									],
+									[
+										571,
+										599
+									],
+									[
+										783,
+										811
+									],
+									[
+										976,
+										1004
+									],
+									[
+										1180,
+										1208
+									],
+									[
+										1433,
+										1461
+									],
+									[
+										1705,
+										1733
+									],
+									[
+										1912,
+										1940
+									],
+									[
+										2112,
+										2140
+									],
+									[
+										2313,
+										2341
+									],
+									[
+										2511,
+										2539
+									],
+									[
+										2723,
+										2751
+									],
+									[
+										2931,
+										2959
+									],
+									[
+										3125,
+										3153
+									],
+									[
+										3327,
+										3355
+									],
+									[
+										3539,
+										3567
+									],
+									[
+										3784,
+										3812
+									],
+									[
+										3993,
+										4021
+									],
+									[
+										4261,
+										4289
+									],
+									[
+										4542,
+										4570
+									],
+									[
+										4812,
+										4840
+									],
+									[
+										5024,
+										5052
+									],
+									[
+										5217,
+										5245
+									],
+									[
+										5421,
+										5449
+									],
+									[
+										5674,
+										5702
+									],
+									[
+										5946,
+										5974
+									],
+									[
+										6153,
+										6181
+									],
+									[
+										6353,
+										6381
+									],
+									[
+										6554,
+										6582
+									],
+									[
+										6752,
+										6780
+									],
+									[
+										6964,
+										6992
+									],
+									[
+										7172,
+										7200
+									],
+									[
+										7366,
+										7394
+									],
+									[
+										7568,
+										7596
+									],
+									[
+										7780,
+										7808
+									],
+									[
+										8025,
+										8053
+									],
+									[
+										8234,
+										8262
+									],
+									[
+										8502,
+										8530
+									],
+									[
+										8783,
+										8811
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"auto_name": "default.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/nav.html",
+					"settings":
+					{
+						"buffer_size": 176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<nav></nav>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/style/scss/theme.scss",
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/style/scss/module.scss",
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "assets/style/scss/type.scss",
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 74.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"type",
+				"assets/style/scss/type.scss"
+			],
+			[
+				"modu",
+				"assets/style/scss/module.scss"
+			],
+			[
+				"theme",
+				"assets/style/scss/theme.scss"
+			],
+			[
+				"nav",
+				"_includes/nav.html"
+			],
+			[
+				"newsindex",
+				"news/index.html"
+			],
+			[
+				"contact",
+				"contact/index.html"
+			],
+			[
+				"module",
+				"assets/style/scss/module.scss"
+			],
+			[
+				"modul",
+				"assets/style/scss/module.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"",
+				"assets/style/scss/module.scss"
+			],
+			[
+				"newsind",
+				"news/index.html"
+			],
+			[
+				"module.sc",
+				"assets/style/scss/module.scss"
+			],
+			[
+				"collection",
+				"collections/index.html"
+			],
+			[
+				"collections",
+				"collections/index.html"
+			],
+			[
+				"collectionindex",
+				"collections/index.html"
+			],
+			[
+				"collectionsindex",
+				"collections/index.html"
+			],
+			[
+				"mo",
+				"assets/style/scss/module.scss"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"collectionsind",
+				"collections/index.html"
+			],
+			[
+				"bottom.html",
+				"node_modules/browserify/node_modules/derequire/node_modules/esprima-fb/test/compat.html"
+			],
+			[
+				"top",
+				"_includes/top.html"
+			],
+			[
+				"site.sc",
+				"assets/style/scss/site.scss"
+			],
+			[
+				"coll",
+				"collections/index.html"
+			],
+			[
+				"collectionsin",
+				"collections/index.html"
+			],
+			[
+				"grid",
+				"assets/style/scss/grid.scss"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"mod",
+				"assets/style/scss/module.scss"
+			],
+			[
+				"nav.html",
+				"_includes/nav.html"
+			],
+			[
+				"nav.",
+				"_includes/nav.html"
+			],
+			[
+				"type.scss",
+				"assets/style/scss/type.scss"
+			],
+			[
+				"grid.sc",
+				"assets/style/scss/grid.scss"
+			],
+			[
+				"yourind",
+				"your-rights/index.html"
+			],
+			[
+				"rights",
+				"node_modules/browserify/node_modules/insert-module-globals/node_modules/lexical-scope/test/right_hand.js"
+			],
+			[
+				"provisions",
+				"general-provisions/index.html"
+			],
+			[
+				"information",
+				"information-and-procedures/index.html"
+			],
+			[
+				"resources",
+				"resources/index.html"
+			],
+			[
+				"policy",
+				"sexual-misconduct-policy/index.html"
+			],
+			[
+				"coordinators",
+				"title-ix-coordinators/index.html"
+			],
+			[
+				"employee",
+				"employee-reporting-options/index.html"
+			],
+			[
+				"default",
+				"_layouts/default.html"
+			],
+			[
+				"seal-small",
+				"assets/img/risd-seal-small.svg"
+			],
+			[
+				"procedures",
+				"information-and-procedures/index.html"
+			],
+			[
+				"top.h",
+				"_includes/top.html"
+			],
+			[
+				"coord",
+				"title-ix-coordinators/index.html"
+			],
+			[
+				"site.scss",
+				"assets/style/scss/site.scss"
+			],
+			[
+				"nav-icon",
+				"assets/img/nav-icon.svg"
+			],
+			[
+				"reportingoptions",
+				"employee-reporting-options/index.html"
+			],
+			[
+				"them",
+				"assets/style/scss/theme.scss"
+			],
+			[
+				"modules",
+				"node_modules/browserify/node_modules/browser-resolve/test/modules.js"
+			],
+			[
+				"resourcesindex",
+				"resources/index.html"
+			],
+			[
+				"policyindex",
+				"sexual-misconduct-policy/index.html"
+			],
+			[
+				"resource",
+				"resources/index.html"
+			],
+			[
+				"sexualindex",
+				"sexual-misconduct-policy/index.html"
+			],
+			[
+				"sexual",
+				"_site/sexual-misconduct-policy/index.html"
+			],
+			[
+				"sexualmi",
+				"sexual-misconduct-policy/index.html"
+			],
+			[
+				"misconduct",
+				"sexual-misconduct-policy/index.html"
+			],
+			[
+				"generalpro",
+				"general-provisions/index.html"
+			],
+			[
+				"defa",
+				"_layouts/default.html"
+			],
+			[
+				"nav.h",
+				"_includes/nav.html"
+			],
+			[
+				"misconductindex",
+				"sexual-misconduct-policy/index.html"
+			],
+			[
+				"informationindex",
+				"information-and-procedures/index.html"
+			],
+			[
+				"coordinatorind",
+				"title-ix-coordinators/index.html"
+			],
+			[
+				"skeleton",
+				"css/skeleton.css"
+			],
+			[
+				"leadership",
+				"academics/academic-leadership/index.html"
+			],
+			[
+				"public",
+				"academics/public-engagement/index.html"
+			],
+			[
+				"academicsmainnav",
+				"_includes/academics/main/nav.html"
+			],
+			[
+				"winterses",
+				"academics/wintersession/index.html"
+			],
+			[
+				"academicsmainindex",
+				"academics/jewelry-metalsmithing/index.html"
+			],
+			[
+				"academicsnav",
+				"_includes/academics/graduate-studies/nav.html"
+			],
+			[
+				"admissionsnav",
+				"_includes/admissions/nav.html"
+			],
+			[
+				"request-information",
+				"admissions/request-information/index.html"
+			],
+			[
+				"admissionsindex",
+				"admissions/index.html"
+			],
+			[
+				"aboutpresident",
+				"about/president/index.html"
+			],
+			[
+				"aboutindex",
+				"about/index.html"
+			],
+			[
+				"aboutpresidentindex",
+				"about/president/index.html"
+			],
+			[
+				"aboutnav",
+				"_includes/about/nav.html"
+			],
+			[
+				"graphicgraduateindex",
+				"academics/graphic-design/graduate/index.html"
+			],
+			[
+				"graphicdesignindex",
+				"academics/graphic-design/index.html"
+			],
+			[
+				"header.html",
+				"_includes/header.html"
+			],
+			[
+				"graduatethesisindex",
+				"academics/graduate-studies/thesis/index.html"
+			],
+			[
+				"graphicfacult",
+				"_includes/academics/graphic-design/modules/faculty-profile.html"
+			],
+			[
+				"graduateresearch",
+				"academics/graduate-studies/research-teaching/index.html"
+			],
+			[
+				"graduatestudiesthesis",
+				"academics/graduate-studies/thesis/index.html"
+			],
+			[
+				"graduatestudiesindex",
+				"academics/graduate-studies/index.html"
+			],
+			[
+				"graduatestudiesnav",
+				"_includes/academics/graduate-studies/nav.html"
+			],
+			[
+				"graduatestudiesthesisindex",
+				"academics/graduate-studies/thesis/index.html"
+			],
+			[
+				"graduate-studiesnav",
+				"_includes/academics/graduate-studies/nav.html"
+			],
+			[
+				"graphiclink",
+				"_includes/academics/graphic-design/modules/department-link.html"
+			],
+			[
+				"graduatestatement",
+				"_includes/academics/graduate-studies/modules/statement-01.html"
+			],
+			[
+				"graduatestudiesstatement",
+				"_includes/academics/main/modules/graduate-studies-opening-statement.html"
+			],
+			[
+				"wintersession",
+				"academics/wintersession/index.html"
+			],
+			[
+				"graphicfacul",
+				"_includes/academics/graphic-design/modules/faculty-profile.html"
+			],
+			[
+				"layout",
+				"_layouts/academic_base.html"
+			],
+			[
+				"graphicdesignnav",
+				"_includes/academics/graphic-design/nav.html"
+			],
+			[
+				"graphicdesigngradindex",
+				"academics/graphic-design/graduate/index.html"
+			],
+			[
+				"graphgradcomm",
+				"_includes/academics/graphic-design/modules/graduate/community.html"
+			],
+			[
+				"department-",
+				"assets/styles/scss/department-colors.scss"
+			],
+			[
+				"academics",
+				"assets/styles/scss/academics.scss"
+			],
+			[
+				"sculpundercur",
+				"_includes/academics/sculpture/modules/undergraduate/curriculum.html"
+			],
+			[
+				"graphgradstude",
+				"_includes/academics/graphic-design/modules/graduate/gallery-student-work-01.html"
+			],
+			[
+				"sculpgrad",
+				"_includes/academics/sculpture/modules/graduate/program-director.html"
+			],
+			[
+				"graphfacu",
+				"_includes/academics/graphic-design/modules/faculty-profile.html"
+			],
+			[
+				"graphstudwork",
+				"_includes/academics/graphic-design/modules/gallery-student-work.html"
+			],
+			[
+				"fallbacks",
+				"static/styles/scss/fallbacks.scss"
+			],
+			[
+				"map.html",
+				"templates/map/map.html"
+			],
+			[
+				"proc",
+				"Procfile.dev"
+			],
+			[
+				"deve",
+				"dev_env_micah.command"
+			],
+			[
+				"pro",
+				"Procfile.dev"
+			],
+			[
+				"make",
+				"static/js/Makefile"
+			],
+			[
+				"landscapearchfacu",
+				"_includes/academics/landscape-architecture/modules/faculty-profile.html"
+			],
+			[
+				"graphiccurr",
+				"_includes/academics/graphic-design/modules/graduate/curriculum.html"
+			],
+			[
+				"foundationoverviewindex",
+				"academics/foundation-studies/overview/index.html"
+			],
+			[
+				"foundationnav",
+				"_includes/academics/foundation-studies/nav.html"
+			],
+			[
+				"foundationoverview",
+				"_includes/academics/foundation-studies/modules/graduate/overview.html"
+			],
+			[
+				"foundationstatemn",
+				"_includes/academics/foundation-studies/modules/statement-03.html"
+			],
+			[
+				"foundationfacul",
+				"_includes/academics/foundation-studies/modules/faculty-profile.html"
+			],
+			[
+				"foundationstatement",
+				"_includes/academics/foundation-studies/modules/statement-03.html"
+			],
+			[
+				"foundationstate",
+				"_includes/academics/foundation-studies/modules/statement-02.html"
+			],
+			[
+				"foundationstudiesthree",
+				"_includes/academics/main/modules/foundation-studies-three-areas-block.html"
+			],
+			[
+				"foundationindex",
+				"academics/foundation-studies/index.html"
+			],
+			[
+				"foundationdegree",
+				"_includes/academics/foundation-studies/modules/degree-programs.html"
+			],
+			[
+				"glassstudent",
+				"_includes/academics/glass/modules/student-profile-right.html"
+			],
+			[
+				"photographystudent",
+				"_includes/academics/photography/modules/student-profile-right.html"
+			],
+			[
+				"photogradpr",
+				"_includes/academics/photography/modules/graduate/program-director.html"
+			],
+			[
+				"modal",
+				"src/modalFlow.js"
+			],
+			[
+				"photograddegree",
+				"_includes/academics/photography/modules/graduate/degree-project.html"
+			],
+			[
+				"lliberalartshero",
+				"_includes/academics/liberal-arts/modules/hero-01.html"
+			],
+			[
+				"liberalartshero",
+				"_includes/academics/main/modules/liberal-arts-hero-01.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 336.0,
+	"status_bar_visible": true
+}

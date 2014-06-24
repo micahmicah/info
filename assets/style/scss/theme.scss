@@ -1,0 +1,33 @@
+// Navigation
+nav{
+	background:$orange;
+}
+
+.directory-header{
+	color:$orange;
+}
+
+.directory-group{
+	border-bottom:1px solid $middle-gray;
+	padding-bottom:1em;
+}
+
+h3{
+	color:$kelly-green;
+}
+
+h4{
+	color:$orange;
+}
+
+h5{
+	color:$kelly-green;
+}
+
+.contact-info li{
+	color:$dark-gray;
+}
+
+a.logo:link, a.logo:visited{
+	color:white;
+}
