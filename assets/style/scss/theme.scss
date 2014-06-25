@@ -3,6 +3,10 @@ nav{
 	background:$orange;
 }
 
+nav li{
+	color:$dark-orange;
+}
+
 .directory-header{
 	color:$orange;
 }
@@ -30,4 +34,17 @@ h5{
 
 a.logo:link, a.logo:visited{
 	color:white;
+}
+
+.department-description a{
+	color:$orange;
+}
+
+body{
+	// needs latest Compass, add '@import "compass"' to your scss
+	// background: -webkit-linear-gradient(top, rgb(255,255,255) 0%,rgb(230,230,230) 100%); Chrome10+,Safari5.1+
+	// background-size:cover;
+	// background-attachment:fixed;
+	// background-repeat:no-repeat;
+
 }
