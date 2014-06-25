@@ -718,7 +718,7 @@ table {
 /* Note: Design for a width of 320px */
 @media only screen and (max-width: 767px) {
   .container {
-    width: 300px; }
+    width: 270px; }
 
   .container .columns,
   .container .column {
@@ -743,7 +743,7 @@ table {
   .container .sixteen.columns,
   .container .one-third.column,
   .container .two-thirds.column {
-    width: 300px; }
+    width: 270px; }
 
   /* Offsets */
   .container .offset-by-one,
@@ -850,6 +850,10 @@ p, li {
   font-style: normal;
   font-size: 14px;
   line-height: 24px; }
+  @media only screen and (max-width: 767px) {
+    p, li {
+      font-size: 12px;
+      line-height: 18px; } }
 
 h1, h2, h3, h4, h5, p strong, .directory-header, .logo {
   font-family: 'Gotham SSm A', 'Gotham SSm B';
@@ -879,6 +883,11 @@ h5 {
   @media only screen and (max-width: 767px) {
     .login h1 {
       font-size: 32px; } }
+
+.social {
+  font-family: modern-pictograms;
+  font-size: 25px;
+  margin-top: 9px; }
 
 h2 {
   font-family: 'Gotham SSm A', 'Gotham SSm B';
@@ -943,6 +952,51 @@ nav {
   top: 0em;
   border-bottom: 2px solid #cd3e0b;
   text-align: right; }
+  @media only screen and (max-width: 767px) {
+    nav {
+      top: 0em;
+      height: 24px;
+      -webkit-transition: height 0.2s ease-in-out; } }
+
+nav.drawer {
+  height: 140px; }
+
+nav.drawer .drawer-activator svg {
+  -webkit-transform: rotate(180deg); }
+
+.drawer-activator svg path {
+  fill: #cd3e0b; }
+
+nav .container {
+  position: relative; }
+  @media only screen and (max-width: 767px) {
+    nav .container {
+      height: 100%; } }
+
+@media only screen and (max-width: 767px) {
+  .logout, .login {
+    position: absolute;
+    left: 0em;
+    text-align: left;
+    bottom: 8em; } }
+
+.drawer-activator {
+  display: none;
+  -webkit-transition: all 0.3s ease-in-out; }
+  @media only screen and (max-width: 767px) {
+    .drawer-activator {
+      display: block;
+      position: absolute;
+      bottom: -1em;
+      width: 100%;
+      text-align: center;
+      cursor: pointer; } }
+
+@media only screen and (max-width: 767px) {
+  .logout {
+    left: 3em;
+    bottom: 8.45em;
+    position: absolute; } }
 
 .login-link svg path {
   fill: #cd3e0b;
@@ -953,6 +1007,11 @@ nav {
 
 a.logo {
   text-align: left; }
+  @media only screen and (max-width: 767px) {
+    a.logo {
+      position: absolute;
+      bottom: 0em;
+      left: 0em; } }
 
 .directory-group li a:hover {
   background: #fafafa;
@@ -993,7 +1052,7 @@ li.directory-header {
   content: ";"; }
 
 .links h3:before {
-  content: "w"; }
+  content: "o"; }
 
 .classifieds {
   border-bottom: 1px solid #e6e6e6; }
@@ -1027,6 +1086,11 @@ input[type="search"] {
   font-size: 16px;
   -webkit-transition: all 0.2s ease-in-out;
   color: #cd3e0b; }
+  @media only screen and (max-width: 767px) {
+    input[type="search"] {
+      position: absolute;
+      bottom: 3em;
+      left: 0em; } }
 
 input[type="search"]:focus {
   background: white;
@@ -1060,7 +1124,7 @@ input[type="search"]:focus {
   color: #666666; }
 
 .department-description {
-  margin-top: 1em; }
+  margin-top: 4.5em; }
 
 .map iframe {
   border: 1px solid #e6e6e6; }
