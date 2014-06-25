@@ -48,3 +48,11 @@ body{
 	// background-repeat:no-repeat;
 
 }
+
+body.login footer{
+	border-top:1px solid $dark-orange;
+}
+
+body.login footer p{
+	color:$dark-orange;
+}

@@ -1080,7 +1080,8 @@ body.login {
   padding: 1em;
   background: white;
   color: #ff6633;
-  border: 1px solid #cd3e0b; }
+  border: 1px solid #cd3e0b;
+  margin-bottom: 8em; }
 
 .login input[type="submit"]:active {
   background: #cd3e0b;
@@ -1089,6 +1090,21 @@ body.login {
 .login ::-webkit-input-placeholder {
   font-size: 16px;
   color: #cd3e0b; }
+
+footer.container {
+  border-top: 1px solid #e6e6e6;
+  padding-bottom: 2em; }
+
+footer p {
+  font-size: 11px;
+  text-transform: uppercase; }
+
+a.search-result {
+  color: #666666;
+  display: block; }
+
+a.search-result:hover {
+  background: #fafafa; }
 
 nav {
   background: #ff6633; }
@@ -1120,5 +1136,11 @@ a.logo:link, a.logo:visited {
 
 .department-description a {
   color: #ff6633; }
+
+body.login footer {
+  border-top: 1px solid #cd3e0b; }
+
+body.login footer p {
+  color: #cd3e0b; }
 
 /*# sourceMappingURL=site.css.map */

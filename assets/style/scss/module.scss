@@ -258,11 +258,13 @@ body.login{
 	background:white;
 	color:$orange;
 	border:1px solid $dark-orange;
+	margin-bottom:8em;
 }
 
 .login input[type="submit"]:active{
 	background:$dark-orange;
 	outline-style:none;
+
 }
 
 
@@ -271,4 +273,27 @@ body.login{
 	color:$dark-orange;
 }
 
+
+// footer
+footer.container{
+	border-top:1px solid $middle-gray;
+	padding-bottom:2em;
+
+}
+
+footer p{
+	font-size:11px;
+	text-transform:uppercase;
+}
+
+
+// search results
+a.search-result{
+	color:$dark-gray;
+	display:block;
+}
+
+a.search-result:hover{
+	background:$light-gray;
+}
 
