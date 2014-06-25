@@ -7,47 +7,11 @@ section: interior
 	<div class="sixteen columns alpha omega bread-crumbs">
 		<ul>
 			<li><a href="{{site.baseurl}}/">Campus Index</a></li>
-			<li><a href="#">Example Department</a></li>
+			<li><a href="{{site.baseurl}}/sample-entry">Example Department</a></li>
 		</ul>
 	</div>
-	<div class="five columns alpha">
-		<h2>Example Department</h2>
-		<section class="contact-info">
-			<h5>WEBSITE</h5>
-			<a href="#" class="department-link">department.risd.edu</a>
-			<h5>HOURS</h5>
-			<ul>
-				<li>MON: 8:30am-8:15pm</li>
-				<li>TUE: 8:30am-8:15pm</li>
-				<li>WED: 8:30am-8:15pm</li>
-				<li>THU: 8:30am-8:15pm</li>
-				<li>FRI: 8:30am-8:15pm</li>
-				<li>SAT: 9:00am-4:45pm </li>
-				<li>SUN: Closed</li>
-			</ul>
-			<h5>LOCATION</h5>
-			<ul>
-				<li>Homer Hall</li> 
-				<li>55 Angell Street</li>
-			</ul>
-			<h5>PHONE</h5>
-			<ul>
-				<li>401-454-6625</li>
-			</ul>
-			<h5>EMAIL</h5>
-			<ul>
-				<li>health@risd.edu</li>
-			</ul>
-			<h5>KEY CONTACT</h5>
-			<ul>
-				<li>Lipsum Lippy</li>
-			</ul>
-		</section>
-		<section class="map">
-			<iframe width='100%' height='300px' frameBorder='0' src='https://a.tiles.mapbox.com/v3/micahmicah.ijl2lg25/attribution,zoompan.html'></iframe>
 
-		</section>
-	</div>
+	{%include dept-pages/office-info.html %}
 
 	<div class="nine columns offset-by-one omega department-description">
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis est vel lectus dapibus posuere. Donec vitae fermentum tortor, quis porta nibh. Phasellus volutpat quis magna sed dapibus. Fusce eu eros augue. In vehicula auctor metus in blandit. Sed quis felis tempor, tincidunt lorem et, malesuada urna. Donec fringilla rutrum felis eget tristique. Nullam varius non quam quis viverra. Suspendisse sed nulla pretium, semper velit tincidunt, blandit urna. Cras eu erat ac est dignissim tincidunt eget sit amet justo. Maecenas sodales vehicula porttitor. Aliquam cursus lacus vel sapien ultricies, nec iaculis augue ultrices. Nam tincidunt a metus non condimentum. Phasellus id justo diam.</p>
@@ -59,35 +23,9 @@ section: interior
 		<p>Phasellus dapibus id lorem vitae venenatis. Quisque eget enim eu turpis accumsan rhoncus commodo sed ligula. In quam augue, egestas ut odio a, eleifend adipiscing odio. Fusce massa tortor, tristique ac accumsan at, venenatis sit amet turpis. Donec ut lobortis tellus. Proin vel arcu sed purus convallis rhoncus ullamcorper eget nisl. Sed a tincidunt nisi, ut malesuada urna. Cras sed tellus vel nulla bibendum euismod ut eu dui.</p>
 
 		<ul>
-			<li><a href="#">Deeper Page</a></li>
+			<li><a href="{{site.baseurl}}/sample-entry/deeper-page">Deeper Page</a></li>
 			<li><a href="#">Another Deeper Page</a> </li>
 		</ul>
-		<section class="assets">
-			<div class="related-links four columns alpha">
-				<h3>Related Links</h3>
-				<ul>
-					<li><a href="#">somethingmiportant.com</a></li>
-					<li><a href="#">anotherresource.risd.edu</a></li>
-					<li><a href="#">websiteurl.org</a></li>
-					<li><a href="#">additionallink.edu/thing</a></li>
-					<li><a href="#">morecopy.net</a></li>
-					<li><a href="#">boatparty.biz</a></li>
-					<li><a href="#">nfl.com</a></li>
-					<li><a href="#">pitchfork.com</a></li>
-					<li><a href="#">gmail.com</a></li>
-				</ul>
-			</div>
-			<div class="documents four columns">
-				<h3>Documents</h3>
-				<ul>
-					<li><a href="#">How to Win Friends and Influence People</a></li>
-					<li><a href="#">The Omnivore's Dilemna</a></li>
-					<li><a href="#">Jurassic Park</a></li>
-					<li><a href="#">A Visit from the Goon Squad</a></li>
-					<li><a href="#">Still Life with Oyster and Lemon</a></li>
-					<li><a href="#">1Q84</a></li>
-				</ul>
-			</div>
-		</section>
+		{%include dept-pages/assets.html %}
 	</div>
 </div>

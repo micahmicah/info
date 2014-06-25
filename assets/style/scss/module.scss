@@ -42,7 +42,9 @@ a:link, a:visited{
 .classifieds a:link, 
 .classifieds a:visited,
 .events li a:link,
-.events li a:visited{
+.events li a:visited,
+.links li a:link,
+.links li a:visited{
 	text-decoration:none;
 	color:$dark-gray;
 }
@@ -91,7 +93,7 @@ li.directory-header{
 	margin-bottom:1em;
 }
 
-.quick-links, .classifieds ul, .events ul, .contact-info ul, .department-description ul{
+.quick-links, .classifieds ul, .events ul, .contact-info ul, .department-description ul, .links ul{
 	list-style:none;
 	padding-left:0em;
 }
@@ -107,7 +109,7 @@ li.directory-header{
 	
 }
 
-.directory h3:before, .classifieds h3:before, .events h3:before, .related-links h3:before, .documents h3:before{
+.directory h3:before, .classifieds h3:before, .events h3:before, .related-links h3:before, .documents h3:before, .links h3:before{
 	font-family:modern-pictograms;
 	font-size:32px;
 	font-weight:normal;
@@ -122,6 +124,10 @@ li.directory-header{
 
 .documents h3:before{
 	content:";";
+}
+
+.links h3:before{
+	content:"w"
 }
 
 
@@ -197,6 +203,7 @@ input[type="search"]:focus{
 // interior
 .bread-crumbs{
 	border-bottom:1px solid $middle-gray;
+	padding-bottom:0.5em;
 }
 
 .bread-crumbs ul{
@@ -284,6 +291,7 @@ footer.container{
 footer p{
 	font-size:11px;
 	text-transform:uppercase;
+	color:$dark-gray;
 }
 
 
