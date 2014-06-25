@@ -916,6 +916,9 @@ a.logo {
 
 body {
   margin-top: 6em; }
+  @media only screen and (max-width: 767px) {
+    body {
+      margin-top: 4em; } }
 
 a:link, a:visited {
   text-decoration: none; }
@@ -957,6 +960,10 @@ nav {
       top: 0em;
       height: 24px;
       -webkit-transition: height 0.2s ease-in-out; } }
+
+@media only screen and (max-width: 767px) {
+  a.shrink.logo {
+    font-size: 14px; } }
 
 nav.drawer {
   height: 140px; }
@@ -1006,7 +1013,8 @@ nav .container {
   fill: white; }
 
 a.logo {
-  text-align: left; }
+  text-align: left;
+  -webkit-transition: font-size 0.2s ease-in-out; }
   @media only screen and (max-width: 767px) {
     a.logo {
       position: absolute;
