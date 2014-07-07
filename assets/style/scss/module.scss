@@ -8,6 +8,7 @@ $dark-gray:#666;
 
 body{
 	margin-top:6em;
+	background:blue;
 }
 
 a:link, a:visited{
@@ -42,7 +43,7 @@ nav{
 	width:100%;
 	z-index:2;
 	top:0em;
-	border-bottom:2px solid $dark-orange;
+	border-bottom:2px solid red;
 }
 
 a.logo{

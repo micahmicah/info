@@ -900,7 +900,8 @@ a.logo {
   font-style: normal; }
 
 body {
-  margin-top: 6em; }
+  margin-top: 6em;
+  background: blue; }
 
 a:link, a:visited {
   text-decoration: none; }
@@ -930,7 +931,7 @@ nav {
   width: 100%;
   z-index: 2;
   top: 0em;
-  border-bottom: 2px solid #cd3e0b; }
+  border-bottom: 2px solid red; }
 
 .directory-group li a:hover {
   background: #fafafa;
