@@ -20,10 +20,16 @@ a:link, a:visited{
 
 .directory-group{
 	-webkit-column-count:2;
+	   -moz-column-count:2;
+		    column-count:2;
+		    // -webkit-column-fill:auto;
 }
 
-.directory-header{
+li.directory-header{
+	display:block;
 	-webkit-column-span:all;
+	   -moz-column-span:all;
+	        column-span:all;
 }
 
 .directory-group li{
@@ -36,6 +42,8 @@ a:link, a:visited{
 	display:block;
 	padding:0.25em 0;
 	-webkit-transition:all 0.2s ease-in-out;
+	   -moz-transition:all 0.2s ease-in-out;
+  		    transition:all 0.2s ease-in-out;
 } 
 
 .directory-group li a:link, 

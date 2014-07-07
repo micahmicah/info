@@ -924,15 +924,22 @@ a:link, a:visited {
   text-decoration: none; }
 
 .directory-group {
-  -webkit-column-count: 2; }
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2; }
 
-.directory-header {
-  -webkit-column-span: all; }
+li.directory-header {
+  display: block;
+  -webkit-column-span: all;
+  -moz-column-span: all;
+  column-span: all; }
 
 .directory-group li a, .quick-links li a, .classifieds li a, .events li a, .department-description li a {
   display: block;
   padding: 0.25em 0;
-  -webkit-transition: all 0.2s ease-in-out; }
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; }
 
 .directory-group li a:link,
 .directory-group li a:visited,
