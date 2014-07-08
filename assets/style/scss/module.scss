@@ -69,11 +69,20 @@ nav{
 	top:0em;
 	border-bottom:2px solid $dark-orange;
 	text-align:right;
+	-webkit-transition:top 0.2s ease-in-out;
 	@media only screen and (max-width: 767px){
 		top:0em;
 		height:24px;
 		-webkit-transition:height 0.2s ease-in-out;
 	}
+}
+
+.nav-up{
+	top:-4em;
+}
+
+.nav-down{
+	top:0em;
 }
 
 a.shrink.logo{

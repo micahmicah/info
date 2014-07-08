@@ -1048,12 +1048,19 @@ nav {
   z-index: 2;
   top: 0em;
   border-bottom: 2px solid #cd3e0b;
-  text-align: right; }
+  text-align: right;
+  -webkit-transition: top 0.2s ease-in-out; }
   @media only screen and (max-width: 767px) {
     nav {
       top: 0em;
       height: 24px;
       -webkit-transition: height 0.2s ease-in-out; } }
+
+.nav-up {
+  top: -4em; }
+
+.nav-down {
+  top: 0em; }
 
 @media only screen and (max-width: 767px) {
   a.shrink.logo {
