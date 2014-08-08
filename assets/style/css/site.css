@@ -916,6 +916,11 @@ li.login {
   font-size: 32px;
   margin-top: 2px; }
 
+.login-screen input::-moz-placeholder {
+  font-family: 'Gotham SSm A', 'Gotham SSm B';
+  font-weight: 400;
+  font-style: normal; }
+
 .login-screen ::-webkit-input-placeholder {
   font-family: 'Gotham SSm A', 'Gotham SSm B';
   font-weight: 400;
@@ -959,6 +964,9 @@ list of departments
 
 .directory-group li {
   -webkit-column-span: 2;
+  -moz-column-span: 2;
+  -o-column-span: 2;
+  column-span: 2;
   display: block;
   font-weight: 600;
   color: #ff6633; }
@@ -1137,12 +1145,17 @@ nav {
   top: 0em;
   border-bottom: 2px solid #cd3e0b;
   text-align: right;
-  -webkit-transition: top 0.2s ease-in-out; }
+  -webkit-transition: top 0.2s ease-in-out;
+  -moz-transition: top 0.2s ease-in-out;
+  transition: top 0.2s ease-in-out; }
   @media only screen and (max-width: 767px) {
     nav {
       top: 0em;
       height: 24px;
-      -webkit-transition: height 0.2s ease-in-out; } }
+      -webkit-transition: height 0.2s ease-in-out;
+      -moz-transition: height 0.2s ease-in-out;
+      -o-transition: height 0.2s ease-in-out;
+      transition: height 0.2s ease-in-out; } }
 
 nav .container {
   position: relative; }
@@ -1158,8 +1171,7 @@ nav .container {
     bottom: 8em; } }
 
 a.logo {
-  text-align: left;
-  -webkit-transition: font-size 0.2s ease-in-out; }
+  text-align: left; }
   @media only screen and (max-width: 767px) {
     a.logo {
       position: absolute;
@@ -1181,14 +1193,17 @@ nav.drawer {
   height: 140px; }
 
 nav.drawer .drawer-activator svg {
-  -webkit-transform: rotate(180deg); }
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  transform: rotate(180deg); }
 
 .drawer-activator svg path {
   fill: #cd3e0b; }
 
 .drawer-activator {
   display: none;
-  -webkit-transition: all 0.3s ease-in-out; }
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out; }
   @media only screen and (max-width: 767px) {
     .drawer-activator {
       display: block;
@@ -1206,7 +1221,9 @@ nav.drawer .drawer-activator svg {
 
 .login-link svg path {
   fill: #cd3e0b;
-  -webkit-transition: fill 0.2s ease-in-out; }
+  -webkit-transition: fill 0.2s ease-in-out;
+  -moz-transition: fill 0.2s ease-in-out;
+  transition: fill 0.2s ease-in-out; }
 
 .login-link:hover svg path {
   fill: white; }
@@ -1222,6 +1239,9 @@ input[type="search"] {
   padding: 0.25em;
   font-size: 16px;
   -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
   color: #cd3e0b; }
   @media only screen and (max-width: 767px) {
     input[type="search"] {
@@ -1233,6 +1253,11 @@ input[type="search"]:focus {
   background: white;
   outline-style: none;
   color: #666666; }
+
+input::-moz-placeholder {
+  font-family: modern-pictograms;
+  font-size: 1.5em;
+  color: #cd3e0b; }
 
 ::-webkit-input-placeholder {
   font-family: modern-pictograms;
@@ -1264,7 +1289,10 @@ body.login-screen {
   padding: 1em;
   background: #ff6633;
   border: 1px solid #cd3e0b;
-  -webkit-transition: background 0.2s ease-in-out; }
+  -webkit-transition: background 0.2s ease-in-out;
+  -moz-transition: background 0.2s ease-in-out;
+  -o-transition: background 0.2s ease-in-out;
+  transition: background 0.2s ease-in-out; }
 
 .login-screen input[type="text"]:focus {
   background: white;
@@ -1285,6 +1313,10 @@ body.login-screen {
   outline-style: none; }
 
 .login-screen ::-webkit-input-placeholder {
+  font-size: 16px;
+  color: #cd3e0b; }
+
+.login-screen input::-moz-placeholder {
   font-size: 16px;
   color: #cd3e0b; }
 

@@ -59,6 +59,9 @@ list of departments
 
 .directory-group li{
 	-webkit-column-span:2;
+	-moz-column-span:2;
+	-o-column-span:2;
+	column-span:2;
 	display:block;
 	font-weight:600;
 	color:$orange;
@@ -315,10 +318,16 @@ nav{
 	border-bottom:2px solid $dark-orange;
 	text-align:right;
 	-webkit-transition:top 0.2s ease-in-out;
+	-moz-transition:top 0.2s ease-in-out;
+	transition:top 0.2s ease-in-out;
+
 	@media only screen and (max-width: 767px){
 		top:0em;
 		height:24px;
 		-webkit-transition:height 0.2s ease-in-out;
+		-moz-transition:height 0.2s ease-in-out;
+		-o-transition:height 0.2s ease-in-out;
+		transition:height 0.2s ease-in-out;
 	}
 }
 
@@ -343,7 +352,7 @@ nav .container{
 
 a.logo{
 	text-align:left;
-	-webkit-transition: font-size 0.2s ease-in-out;
+	
 	@media only screen and (max-width: 767px){
 		position:absolute;
 		bottom:0em;
@@ -376,6 +385,8 @@ nav.drawer{
 
 nav.drawer .drawer-activator svg{
 	-webkit-transform:rotate(180deg);
+	-moz-transform:rotate(180deg);
+	transform:rotate(180deg);
 }
 
 .drawer-activator svg path{
@@ -387,6 +398,7 @@ nav.drawer .drawer-activator svg{
 .drawer-activator{
 	display:none;
 	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
 	@media only screen and (max-width: 767px){
 		display:block;
 		position:absolute;
@@ -412,6 +424,8 @@ nav.drawer .drawer-activator svg{
 .login-link svg path{
 	fill:$dark-orange;
 	-webkit-transition:fill 0.2s ease-in-out;
+	-moz-transition:fill 0.2s ease-in-out;
+	transition:fill 0.2s ease-in-out;
 }
 
 .login-link:hover svg path{
@@ -440,6 +454,9 @@ input[type="search"]{
 	padding:0.25em;
 	font-size:16px;
 	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-o-transition:all 0.2s ease-in-out;
+	transition:all 0.2s ease-in-out;
 	color:$dark-orange;
 	@media only screen and (max-width: 767px){
 		position:absolute;
@@ -456,6 +473,15 @@ input[type="search"]:focus{
 	outline-style:none;
 	color:$dark-gray;
 }
+
+input::-moz-placeholder{
+	font-family:modern-pictograms;
+	font-size:1.5em;
+	color:$dark-orange;
+}
+
+
+
 
 ::-webkit-input-placeholder{
 	font-family:modern-pictograms;
@@ -499,6 +525,9 @@ body.login-screen{
 	background:$orange;
 	border:1px solid $dark-orange;
 	-webkit-transition: background 0.2s ease-in-out;
+	-moz-transition: background 0.2s ease-in-out;
+	-o-transition: background 0.2s ease-in-out;
+	transition: background 0.2s ease-in-out;
 
 }
 
@@ -530,6 +559,11 @@ body.login-screen{
 	font-size:16px;
 	color:$dark-orange;
 
+}
+
+.login-screen input::-moz-placeholder{
+	font-size:16px;
+	color:$dark-orange;
 }
 
 
