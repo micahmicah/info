@@ -42,8 +42,8 @@ h5{
 	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
 }
 
-.login h1{
-	font-size:62px;
+.login-screen h1{
+	font-size:54px;
 	text-transform:uppercase;
 	color:white;
 	@media only screen and (max-width: 767px){
@@ -51,7 +51,7 @@ h5{
 	}
 }
 
-.social{
+.social li{
 	font-family:modern-pictograms;
 	font-size:25px;
 	margin-top:9px;
@@ -76,6 +76,13 @@ a.logo{
 }
 
 
-.login ::-webkit-input-placeholder{
+li.login{
+	font-family:modern-pictograms;
+	font-size:32px;
+	margin-top:2px;
+}
+
+
+.login-screen ::-webkit-input-placeholder{
 	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
 }

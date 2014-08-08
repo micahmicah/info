@@ -6,6 +6,16 @@ $light-gray: rgb(250,250,250);
 $middle-gray:rgb(230,230,230);
 $dark-gray:#666;
 
+
+/*
+=================================================================
+ 
+ MAIN PAGE
+
+=================================================================
+
+*/
+
 body{
 	margin-top:6em;
 	@media only screen and (max-width: 767px){
@@ -15,52 +25,287 @@ body{
 
 
 a:link, a:visited{
-	text-decoration:underline;
+	text-decoration:none;
 }
 
-.directory-group{
-	-webkit-column-count:2;
-	   -moz-column-count:2;
-		    column-count:2;
-		    // -webkit-column-fill:auto;
+ul{
+	padding:0px;
+	list-style:none;
 }
 
-li.directory-header{
-	display:block;
-	-webkit-column-span:all;
-	   -moz-column-span:all;
-	        column-span:all;
+
+h3:before{
+	font-family:modern-pictograms;
+	font-size:32px;
+	color:$orange;
+	font-weight:normal;
+	margin-right:0.125em;
 }
+
+
+
+
+/*
+---------------------
+list of departments
+---------------------
+*/
+
+
+.directory-group:last-child{
+	border-bottom:none;
+}
+
 
 .directory-group li{
-	// float:left;
-	// width:100%;
-	// -webkit-column-count:2;
+	-webkit-column-span:2;
+	display:block;
+	font-weight:600;
+	color:$orange;
 }
 
-.directory-group li a, .quick-links li a, .classifieds li a, .events li a, .department-description li a{
-	display:block;
-	padding:0.25em 0;
-	-webkit-transition:all 0.2s ease-in-out;
-	   -moz-transition:all 0.2s ease-in-out;
-  		    transition:all 0.2s ease-in-out;
-} 
+.directory-group ul{
+	-webkit-column-count:2;
+	-moz-column-count:2;
+	-o-column-count:2;
+	-ms-column-count:2;
+	column-count:2;
+}
 
-.directory-group li a:link, 
-.directory-group li a:visited, 
-.quick-links li a:link, 
-.quick-links li a:visited, 
-.classifieds a:link, 
-.classifieds a:visited,
-.events li a:link,
-.events li a:visited,
-.links li a:link,
-.links li a:visited{
-	text-decoration:none;
+.directory-group ul li{
+	-webkit-column-break-inside:avoid;
+    	-moz-column-break-inside:avoid;
+    	-o-column-break-inside:avoid;
+    	-ms-column-break-inside:avoid;
+    	column-break-inside:avoid;
+}
+
+ul li a:link, ul li a:visited{
+	padding:0.25em 0em;
+	display:block;
+	font-weight:400;
+
+}
+
+ul li a:hover{
+	color:$dark-orange;
+}
+
+.directory ul li a:link, .directory ul li a:visited{
 	color:$dark-gray;
 }
 
-// Navigation
+.directory-group ul li a:hover{
+	background:$light-gray;
+	color:$orange;
+}
+
+
+/*
+---------------------
+	SIDEBAR 
+---------------------
+*/
+
+
+
+.quick-links, .classifieds ul, .events ul, .contact-info ul, .department-description ul, .links ul{
+	list-style:none;
+	padding-left:0em;
+}
+
+.quick-links li{
+	float:left;
+	width:50%;
+}
+
+
+.directory h3:before{
+	content:"Ü";
+}
+
+
+
+/*
+---------------------
+	QUICK LINKS 
+---------------------
+*/
+
+
+.links h3:before{
+	content:"o"
+}
+
+
+/*
+---------------------
+	CLASSIFIEDS 
+---------------------
+*/
+.classifieds{
+	border-bottom:1px solid $middle-gray;
+}
+
+.classifieds h3:before{
+	content:"i";
+	
+}
+
+
+
+/*
+---------------------
+	EVENTS 
+---------------------
+*/
+.events h3:before{
+	content:"ç";
+	
+	
+
+}
+
+.events .location{
+	display:block;
+}
+
+.events .location:before{
+	content:"location";
+	text-transform:uppercase;
+	color:rgb(180,180,180);
+	font-size:11px;
+	margin-right:0.75em;
+}
+
+
+
+
+/*
+=================================================================
+ 
+  DEPARTMENT / OFFICE PAGE
+
+=================================================================
+
+*/
+
+
+
+.assets{
+	border-top:1px solid $middle-gray;
+}
+
+
+
+.related-links h3:before{
+	content:"w";
+}
+
+.documents h3:before{
+	content:";";
+}
+
+
+
+/*
+--------------------------
+	MAIN COLUMN 
+--------------------------
+*/
+
+.department-description{
+	margin-top:4.5em;
+}
+
+
+/*
+---------------------
+	BREAD CRUMBS 
+---------------------
+*/
+
+
+.bread-crumbs{
+	border-bottom:1px solid $middle-gray;
+	padding-bottom:0.5em;
+}
+
+.bread-crumbs ul{
+	padding:0em;
+	list-style:none;
+}
+
+.bread-crumbs ul li{
+	float:left;
+	margin-right:0.5em;
+	font-size:12px;
+	display:inline;
+}
+
+.bread-crumbs ul li:first-child:after{
+	content:"/";
+	margin-left:0.5em;
+	color:$dark-gray;
+}
+
+.bread-crumbs ul li:nth-child(3):before{
+	content:"/";
+	margin-right:0.5em;
+	color:$dark-gray;
+}
+
+.bread-crumbs ul li a:link, .bread-crumbs ul li a:visited{
+	color:$dark-gray;
+	display:inline;
+}
+
+.bread-crumbs ul li a:hover, .bread-crumbs ul li a:active{
+	color:$orange;
+}
+
+
+/*
+---------------------
+	SIDE COLUMN 
+---------------------
+*/
+
+
+
+
+.contact-info ul{
+	margin-top:0em;
+
+}
+
+
+.map iframe{
+	border:1px solid $middle-gray;
+}
+
+
+
+
+
+
+
+
+/*
+=================================================================
+ 
+ NAVIGATION
+
+=================================================================
+*/
+
+
+/*
+---------------------
+initial structure
+---------------------
+*/
+
 nav{
 	padding:1em 0em;
 	position:fixed;
@@ -77,32 +322,6 @@ nav{
 	}
 }
 
-.nav-up{
-	top:-4em;
-}
-
-.nav-down{
-	top:0em;
-}
-
-a.shrink.logo{
-	@media only screen and (max-width: 767px){
-		font-size:14px;
-	}
-}
-
-
-nav.drawer{
-	height:140px;
-}
-
-nav.drawer .drawer-activator svg{
-	-webkit-transform:rotate(180deg);
-}
-
-.drawer-activator svg path{
-	fill:$dark-orange;
-}
 
 nav .container{
 	position:relative;
@@ -120,6 +339,50 @@ nav .container{
 	}
 	
 }
+
+
+a.logo{
+	text-align:left;
+	-webkit-transition: font-size 0.2s ease-in-out;
+	@media only screen and (max-width: 767px){
+		position:absolute;
+		bottom:0em;
+		left:0em;
+	}
+}
+
+
+
+
+
+/*
+---------------------
+interactive states
+---------------------
+*/
+
+.nav-up{
+	top:-4em;
+}
+
+.nav-down{
+	top:0em;
+}
+
+
+nav.drawer{
+	height:140px;
+}
+
+nav.drawer .drawer-activator svg{
+	-webkit-transform:rotate(180deg);
+}
+
+.drawer-activator svg path{
+	fill:$dark-orange;
+}
+
+
 
 .drawer-activator{
 	display:none;
@@ -156,117 +419,20 @@ nav .container{
 }
 
 
-a.logo{
-	text-align:left;
-	-webkit-transition: font-size 0.2s ease-in-out;
-	@media only screen and (max-width: 767px){
-		position:absolute;
-		bottom:0em;
-		left:0em;
-	}
-}
-
-.directory-group li a:hover{
-	background:$light-gray;
-	color:$orange;
-}
-
-.directory-group li a:active{
-	color:$dark-orange;
-	background:$middle-gray;
-}
-
-li.directory-header{
-	float:none;
-}
-
-.directory-group{
-	margin-bottom:1em;
-}
-
-.quick-links, .classifieds ul, .events ul, .contact-info ul, .department-description ul, .links ul{
-	list-style:none;
-	padding-left:0em;
-}
-
-.quick-links li{
-	float:left;
-	width:50%;
-}
-
-
-.directory h3:before{
-	content:"Ü";
-	
-}
-
-.directory h3:before, .classifieds h3:before, .events h3:before, .related-links h3:before, .documents h3:before, .links h3:before{
-	font-family:modern-pictograms;
-	font-size:32px;
-	font-weight:normal;
-	color:$orange;
-	margin-right:0.125em;
-
-}
-
-.related-links h3:before{
-	content:"w";
-}
-
-.documents h3:before{
-	content:";";
-}
-
-.links h3:before{
-	content:"o"
-}
-
-
-// classifieds
-.classifieds{
-	border-bottom:1px solid $middle-gray;
-}
-
-.classifieds h3:before{
-	content:"i";
-	
-}
 
 
 
-// events
-.events h3:before{
-	content:"ç";
-	
-	
-
-}
-
-.events .location{
-	display:block;
-}
-
-.events .location:before{
-	content:"location";
-	text-transform:uppercase;
-	color:rgb(180,180,180);
-	font-size:11px;
-	margin-right:0.75em;
-}
 
 
-// contact
-.contact-info ul{
-	margin-top:0em;
-
-}
-
-.department-link:link, .department-link:visited{
-	color:$orange;	
-}
 
 
-// search
+
+
+/*
+---------------------
+search bar
+---------------------
+*/
 
 input[type="search"]{
 	background:$orange;
@@ -280,11 +446,8 @@ input[type="search"]{
 		bottom:3em;
 		left:0em;
 	}
-	// border-radius:25%;
 	
 }
-
-
 
 
 
@@ -301,53 +464,35 @@ input[type="search"]:focus{
 }
 
 
-// interior
-.bread-crumbs{
-	border-bottom:1px solid $middle-gray;
-	padding-bottom:0.5em;
-}
 
-.bread-crumbs ul{
-	padding:0em;
-	list-style:none;
-}
 
-.bread-crumbs ul li{
-	float:left;
-	margin-right:0.5em;
-	font-size:12px;
-}
 
-.bread-crumbs ul li:first-child:after{
-	content:"/";
-	margin-left:0.5em;
-	color:$dark-gray;
-}
+/*
+=================================================================
+ 
+ LOGIN SCREEN
 
-.bread-crumbs ul li a:link, .bread-crumbs ul li a:visited{
-	color:$dark-gray;
-}
+=================================================================
+*/
 
-.department-description{
-	margin-top:4.5em;
-}
-
-// map
-.map iframe{
-	border:1px solid $middle-gray;
-}
-
-// assets
-.assets{
-	border-top:1px solid $middle-gray;
-}
-
-// login screen
-body.login{
+body.login-screen{
 	background:$orange;
+	@media only screen and (max-width: 767px){
+		margin-top:0em;
+	}
+
 }
 
-.login input[type="text"]{
+
+.login-screen input{
+	display:block;
+	width:100%;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+.login-screen input[type="text"]{
 	margin-bottom:1em;
 	// font-size:14px;
 	padding:1em;
@@ -357,33 +502,53 @@ body.login{
 
 }
 
-.login input[type="text"]:focus{
+.login-screen input[type="text"]:focus{
 	background:white;
 	outline-style:none;
 }
 
-.login input[type="submit"]{
+.login-screen input[type="submit"]{
 	padding:1em;
 	background:white;
 	color:$orange;
 	border:1px solid $dark-orange;
 	margin-bottom:8em;
+	@media only screen and (max-width: 767px){
+		margin-bottom:3em;
+	}
 }
 
-.login input[type="submit"]:active{
+.login-screen input[type="submit"]:active{
 	background:$dark-orange;
 	outline-style:none;
 
+
 }
 
 
-.login ::-webkit-input-placeholder{
+.login-screen ::-webkit-input-placeholder{
 	font-size:16px;
+	color:$dark-orange;
+
+}
+
+
+.login-screen a:link, .login-screen  a:visited, .login-screen .social a:link, .login-screen .social a:visited{
 	color:$dark-orange;
 }
 
+.login-screen a:hover, .login-screen .social a:hover{
+	color:white;
+}
 
-// footer
+
+/*
+=================================================================
+ 
+ FOOTER
+
+=================================================================
+*/
 footer.container{
 	border-top:1px solid $middle-gray;
 	padding-bottom:2em;
@@ -396,6 +561,14 @@ footer p{
 	color:$dark-gray;
 }
 
+footer a:link, footer a:visited, .social li a:visited, .social li a:link{
+	color:$dark-gray;
+}
+
+footer a:hover, footer .social a:hover{
+	color:$orange;
+}
+
 
 // search results
 a.search-result{
@@ -403,7 +576,61 @@ a.search-result{
 	display:block;
 }
 
-a.search-result:hover{
-	background:$light-gray;
+a.search-result:hover p{
+	// background:$light-gray;
+	color:rgb(60,60,60);
 }
+
+
+
+
+.social{
+	list-style:none;
+	padding:0px;
+	margin:0px;
+}
+
+.social li{
+	float:left;
+	margin-right:0.25em;
+}
+
+
+
+/*
+=================================================================
+ 
+ CLASSIFIEDS
+
+=================================================================
+*/
+
+
+.classified-nav{
+	padding:0px;
+	list-style:none;
+
+	li{
+		float:left;
+		margin-right:1em;
+	}
+}
+
+
+.classified-item{
+	h3{
+		margin-bottom:0px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
 

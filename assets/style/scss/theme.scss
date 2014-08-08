@@ -1,4 +1,12 @@
-// Navigation
+/*
+==================================
+
+NAVIGATION
+
+==================================
+
+*/
+
 nav{
 	background:$orange;
 }
@@ -15,6 +23,18 @@ nav li{
 	border-bottom:1px solid $middle-gray;
 	padding-bottom:1em;
 }
+
+nav a:link, nav a:visited{
+	color:$dark-orange;
+	text-decoration:none;
+}
+
+nav a:hover{
+	color:white;
+}
+
+
+// headers
 
 h3{
 	color:$kelly-green;
@@ -34,25 +54,66 @@ h5{
 
 a.logo:link, a.logo:visited{
 	color:white;
+	text-decoration:none;
 }
+
+a:link, a:visited{
+	color:$orange;
+	text-decoration:none;
+}
+
+a.search-result:link{
+	color:$dark-gray;
+	border-bottom:1px solid $middle-gray;
+}
+
+a.search-result:last-child{
+	border-bottom:none;
+}
+
+.contact-info a:link, .contact-info a:visited{
+	font-weight:700;
+}
+
+.contact-info .department-link:link, .contact-info .department-link:visited{
+	color:$orange;
+	font-weight:400;
+}
+
+.contact-info .department-link:hover{
+	color:$dark-orange;
+}
+
+
+.sidebar li a:link, .sidebar li a:visited{
+	color:$dark-gray;
+}
+
+.sidebar li a:hover{
+	color:$orange;
+	background:$light-gray;
+}
+
 
 .department-description a{
 	color:$orange;
 }
 
 body{
-	// needs latest Compass, add '@import "compass"' to your scss
-	// background: -webkit-linear-gradient(top, rgb(255,255,255) 0%,rgb(230,230,230) 100%); Chrome10+,Safari5.1+
-	// background-size:cover;
-	// background-attachment:fixed;
-	// background-repeat:no-repeat;
+	
 
 }
 
-body.login footer{
+
+.search-term{
+	color:$orange;
+}
+
+
+body.login-screen footer{
 	border-top:1px solid $dark-orange;
 }
 
-body.login footer p{
+body.login-screen footer p{
 	color:$dark-orange;
 }
