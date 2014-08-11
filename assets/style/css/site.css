@@ -1414,14 +1414,17 @@ MODAL WINDOW
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   padding: 1em;
-  margin: 4em auto !important; }
+  margin: 4em auto !important;
+  position: relative; }
 
 .status-close {
   font-family: modern-pictograms;
   color: #ff6633;
   position: absolute;
-  top: 0.75em;
-  font-size: 48px; }
+  top: -0.5em;
+  right: 0.5em;
+  font-size: 48px;
+  cursor: pointer; }
 
 .status-message button {
   background: #009933;

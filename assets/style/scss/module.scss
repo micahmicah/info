@@ -699,15 +699,17 @@ MODAL WINDOW
 	box-sizing:border-box;
 	padding:1em;
 	margin:4em auto !important;
+	position:relative;
 }
 
 .status-close{
 	font-family:modern-pictograms;
 	color:$orange;
 	position:absolute;
-	// right:1em;
-	top:0.75em;
+	top:-0.5em;
+	right:0.5em;
 	font-size:48px;
+	cursor:pointer;
 }
 
 .status-message button{
