@@ -41,4 +41,10 @@ function hasScrolled() {
     
     lastScrollTop = st;
 }
+
+$(document).ready(function(){
+    $('.status-close').click(function(){
+        $('.status-popup').css('display', 'none');
+    });
+})
 },{}]},{},[1])

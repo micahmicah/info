@@ -112,7 +112,7 @@ ul li a:hover{
 
 
 
-.quick-links, .classifieds ul, .events ul, .contact-info ul, .department-description ul, .links ul{
+.quick-links, .classifieds ul, .events ul, .contact-info ul, .links ul{
 	list-style:none;
 	padding-left:0em;
 }
@@ -199,6 +199,9 @@ ul li a:hover{
 	border-top:1px solid $middle-gray;
 }
 
+.department-description .assets ul{
+	list-style:none;
+}
 
 
 .related-links h3:before{
@@ -221,6 +224,14 @@ ul li a:hover{
 	margin-top:4.5em;
 }
 
+.department-description ul{
+	list-style:disc;
+}
+
+
+ul.page-links{
+	list-style:none;
+}
 
 /*
 ---------------------
@@ -661,9 +672,49 @@ a.search-result:hover p{
 
 
 
+/*
+=================================================================
+ 
+MODAL WINDOW
 
+=================================================================
+*/
 
+.status-popup{
+	width:100%;
+	height:100%;
+	background:rgba(0,0,0,0.74);
+	display:block;
+	position:fixed;
+	z-index:10;
+	margin:0px;
+	top:0px;
+	text-align:center;
+}
 
+.status-message{
+	background:white;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	padding:1em;
+	margin:4em auto !important;
+}
+
+.status-close{
+	font-family:modern-pictograms;
+	color:$orange;
+	position:absolute;
+	// right:1em;
+	top:0.75em;
+	font-size:48px;
+}
+
+.status-message button{
+	background:$kelly-green;
+	border:none;
+	padding:1em;
+}
 
 
 
