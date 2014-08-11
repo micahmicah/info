@@ -62,10 +62,11 @@ a:link, a:visited{
 	text-decoration:none;
 }
 
-a.search-result:link{
+a.search-result:link, a.search-result:visited{
 	color:$dark-gray;
 	border-bottom:1px solid $middle-gray;
 }
+
 
 a.search-result:last-child{
 	border-bottom:none;

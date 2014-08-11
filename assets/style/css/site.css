@@ -1429,7 +1429,7 @@ a:link, a:visited {
   color: #ff6633;
   text-decoration: none; }
 
-a.search-result:link {
+a.search-result:link, a.search-result:visited {
   color: #666666;
   border-bottom: 1px solid #e6e6e6; }
 
