@@ -226,11 +226,13 @@ ul li a:hover{
 
 .department-description ul{
 	list-style:disc;
+	padding-left:1em;
 }
 
 
 ul.page-links{
 	list-style:none;
+	padding-left:0em;
 }
 
 /*
@@ -443,7 +445,17 @@ nav.drawer .drawer-activator svg{
 	fill:white;
 }
 
+.user-links{
+	margin:0px;
+	display:inline;
+	border:1px solid green;
+}
 
+.user-links li{
+	background:yellow;
+	margin:0px;
+	display:block;
+}
 
 
 

@@ -1,6 +1,10 @@
 @font-face {
     font-family: modern-pictograms;
-    src: url(../../fonts/modernpics.otf);
+    src: url(../../fonts/modernpics.otf),
+          url(../../fonts/modernpictogramspro_2-webfont.eot),
+          url(../../fonts/modernpictogramspro_2-webfont.ttf),
+          url(../../fonts/modernpictogramspro_2-webfont.woff);
+
 }
 
 .directory-group{
@@ -54,7 +58,7 @@ h5{
 .social li{
 	font-family:modern-pictograms;
 	font-size:25px;
-	margin-top:9px;
+	margin-top:6px;
 }
 
 h2{

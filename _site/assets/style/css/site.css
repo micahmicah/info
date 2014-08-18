@@ -837,7 +837,7 @@ or wrap each row of columns in a <div class="row"> */
 
 @font-face {
   font-family: modern-pictograms;
-  src: url(../../fonts/modernpics.otf); }
+  src: url(../../fonts/modernpics.otf), url(../../fonts/modernpictogramspro_2-webfont.eot), url(../../fonts/modernpictogramspro_2-webfont.ttf), url(../../fonts/modernpictogramspro_2-webfont.woff); }
 .directory-group {
   list-style: none;
   padding: 0em; }
@@ -889,7 +889,7 @@ h5 {
 .social li {
   font-family: modern-pictograms;
   font-size: 25px;
-  margin-top: 9px; }
+  margin-top: 6px; }
 
 h2 {
   font-family: 'Gotham SSm A', 'Gotham SSm B';
@@ -1082,10 +1082,12 @@ ul li a:hover {
   margin-top: 4.5em; }
 
 .department-description ul {
-  list-style: disc; }
+  list-style: disc;
+  padding-left: 1em; }
 
 ul.page-links {
-  list-style: none; }
+  list-style: none;
+  padding-left: 0em; }
 
 /*
 ---------------------
@@ -1236,6 +1238,16 @@ nav.drawer .drawer-activator svg {
 
 .login-link:hover svg path {
   fill: white; }
+
+.user-links {
+  margin: 0px;
+  display: inline;
+  border: 1px solid green; }
+
+.user-links li {
+  background: yellow;
+  margin: 0px;
+  display: block; }
 
 /*
 ---------------------
