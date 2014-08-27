@@ -470,7 +470,10 @@ nav.drawer .drawer-activator svg{
 	border-radius:4px;
 }
 
-
+.user-links li a:active{
+	background:$dark-orange;
+	color:$orange;
+}
 
 
 
