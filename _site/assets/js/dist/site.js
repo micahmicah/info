@@ -51,4 +51,8 @@ $(document).ready(function(){
         $('.status-popup').css('display', 'none');
     });
 })
+
+$('.drawer-activator').click(function(){
+    $('.main-nav').toggleClass('drawer');
+});
 },{}]},{},[1])
