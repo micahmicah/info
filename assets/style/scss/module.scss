@@ -581,9 +581,9 @@ body.login-screen{
 	background:white;
 	color:$orange;
 	border:1px solid $dark-orange;
-	margin-bottom:8em;
+	margin-bottom:1em;
 	@media only screen and (max-width: 767px){
-		margin-bottom:3em;
+		margin-bottom:1em;
 	}
 }
 
@@ -592,6 +592,18 @@ body.login-screen{
 	outline-style:none;
 
 
+}
+
+.login-error{
+	color:white;
+}
+
+.login-screen .login-error a:link, .login-error a:visited{
+	color:white;
+}
+
+.login-screen .login-error a:hover{
+	color:black;
 }
 
 
@@ -629,6 +641,9 @@ footer.container{
 
 }
 
+.login-screen footer{
+	margin-top:8em;
+}
 footer p{
 	font-size:11px;
 	text-transform:uppercase;

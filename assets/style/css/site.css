@@ -1334,14 +1334,23 @@ body.login-screen {
   background: white;
   color: #ff6633;
   border: 1px solid #cd3e0b;
-  margin-bottom: 8em; }
+  margin-bottom: 1em; }
   @media only screen and (max-width: 767px) {
     .login-screen input[type="submit"] {
-      margin-bottom: 3em; } }
+      margin-bottom: 1em; } }
 
 .login-screen input[type="submit"]:active {
   background: #cd3e0b;
   outline-style: none; }
+
+.login-error {
+  color: white; }
+
+.login-screen .login-error a:link, .login-error a:visited {
+  color: white; }
+
+.login-screen .login-error a:hover {
+  color: black; }
 
 .login-screen ::-webkit-input-placeholder {
   font-size: 16px;
@@ -1367,6 +1376,9 @@ body.login-screen {
 footer.container {
   border-top: 1px solid #e6e6e6;
   padding-bottom: 2em; }
+
+.login-screen footer {
+  margin-top: 8em; }
 
 footer p {
   font-size: 11px;
