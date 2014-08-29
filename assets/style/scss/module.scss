@@ -84,14 +84,16 @@ list of departments
 }
 
 ul li a:link, ul li a:visited{
-	padding:0.25em 0em;
+	padding:0.5em 0em 0.5em 0em;
 	display:block;
 	font-weight:400;
+	-webkit-transition:all 0.2s ease-in-out;
 
 }
 
 ul li a:hover{
 	color:$dark-orange;
+	background:$light-gray;
 }
 
 .directory ul li a:link, .directory ul li a:visited{
@@ -301,7 +303,9 @@ ul.page-links{
 }
 
 
-
+.related-links ul, .documents ul{
+	padding-left:0em;
+}
 
 
 
