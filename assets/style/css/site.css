@@ -1139,6 +1139,9 @@ ul.page-links {
 .related-links ul, .documents ul {
   padding-left: 0em; }
 
+.related-links ul li a, .documents ul li a {
+  display: block; }
+
 /*
 =================================================================
  
