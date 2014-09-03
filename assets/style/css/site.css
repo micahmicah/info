@@ -1082,6 +1082,9 @@ ul li a:hover {
   list-style: disc;
   padding-left: 1em; }
 
+.department-description ul li a {
+  display: inline; }
+
 ul.page-links {
   list-style: none;
   padding-left: 0em; }
