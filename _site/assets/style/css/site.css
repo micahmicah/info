@@ -1160,7 +1160,7 @@ nav {
   width: 100%;
   z-index: 2;
   top: 0em;
-  border-bottom: 2px solid #cd3e0b;
+  border-bottom: 1px solid #cd3e0b;
   text-align: right;
   -webkit-transition: top 0.2s ease-in-out;
   -moz-transition: top 0.2s ease-in-out;
@@ -1168,7 +1168,7 @@ nav {
   @media only screen and (max-width: 767px) {
     nav {
       top: 0em;
-      height: 24px;
+      height: 36px;
       -webkit-transition: height 0.2s ease-in-out;
       -moz-transition: height 0.2s ease-in-out;
       -o-transition: height 0.2s ease-in-out;
@@ -1185,7 +1185,7 @@ nav .container {
     position: absolute;
     left: 0em;
     text-align: left;
-    bottom: 6.5em; } }
+    bottom: 7.5em; } }
 
 a.logo {
   text-align: left; }
@@ -1195,8 +1195,9 @@ a.logo {
   @media only screen and (max-width: 767px) {
     a.logo {
       position: absolute;
-      bottom: 0em;
-      left: 0em; } }
+      bottom: 0.4em;
+      left: 0em;
+      text-align: center; } }
 
 /*
 ---------------------
@@ -1214,7 +1215,7 @@ interactive states
 
 @media only screen and (max-width: 767px) {
   nav.drawer {
-    height: 140px; } }
+    height: 160px; } }
 
 nav.drawer .drawer-activator svg {
   -webkit-transform: rotate(180deg);
@@ -1233,13 +1234,14 @@ nav.drawer .drawer-activator svg {
       display: block;
       position: absolute;
       bottom: -1em;
+      padding: 0.25em 0em;
       width: 100%;
       text-align: center;
       cursor: pointer; } }
 
 @media only screen and (max-width: 767px) {
   .logout {
-    bottom: 10em;
+    bottom: 10.5em;
     position: absolute; } }
 
 .user-links {
@@ -1292,7 +1294,7 @@ input#search {
   @media only screen and (max-width: 767px) {
     input#search {
       position: absolute;
-      bottom: 2.5em;
+      bottom: 3.5em;
       left: 0em; } }
 
 input[type="search"]:focus {
@@ -1317,10 +1319,10 @@ input::-moz-placeholder {
 
 =================================================================
 */
-body.login-screen {
+body.login-screen, body.error {
   background: #ff6633; }
   @media only screen and (max-width: 767px) {
-    body.login-screen {
+    body.login-screen, body.error {
       margin-top: 0em; } }
 
 .login-screen input {
@@ -1481,6 +1483,33 @@ MODAL WINDOW
   padding: 1em; }
 
 /*
+=================================================================
+ 
+ERROR SCREEN
+
+=================================================================
+*/
+.error-title {
+  color: #ff6633;
+  text-align: center;
+  background: white;
+  display: inline-block;
+  margin: 0 auto;
+  font-weight: bold;
+  padding: 1em; }
+
+.error-message {
+  text-align: center; }
+
+blockquote p {
+  font-size: 2em !important;
+  line-height: 1.75em !important;
+  color: #fff !important;
+  font-style: normal !important;
+  padding: 10px 0 10px 0 !important;
+  text-align: center !important; }
+
+/*
 ==================================
 
 NAVIGATION
@@ -1568,10 +1597,10 @@ button:active {
 .search-term {
   color: #ff6633; }
 
-body.login-screen footer {
+body.login-screen footer, body.error footer {
   border-top: 1px solid #cd3e0b; }
 
-body.login-screen footer p {
+body.login-screen footer p, body.error footer p {
   color: #cd3e0b; }
 
 /*# sourceMappingURL=site.css.map */

@@ -125,10 +125,10 @@ button:active{
 }
 
 
-body.login-screen footer{
+body.login-screen footer, body.error footer{
 	border-top:1px solid $dark-orange;
 }
 
-body.login-screen footer p{
+body.login-screen footer p, body.error footer p{
 	color:$dark-orange;
 }
