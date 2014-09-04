@@ -640,10 +640,17 @@ body.login-screen, body.error{
 
 .login-screen a:link, .login-screen  a:visited, .login-screen .social a:link, .login-screen .social a:visited{
 	color:$dark-orange;
+	padding:0em;
 }
 
-.login-screen a:hover, .login-screen .social a:hover{
+.login-screen footer ul.social li a:link, body.error footer ul.social li a:link, body.error footer ul.social li a:visited{
+	padding:0.2em 0em;
+	color:$dark-orange;
+}
+
+.login-screen a:hover, .login-screen .social a:hover, body.error footer ul.social li a:hover{
 	color:white;
+	background:none;
 }
 
 
@@ -796,9 +803,12 @@ ERROR SCREEN
 	text-align:center;
 	background:white;
 	display:inline-block;
-	margin:0 auto;
+	margin:2em auto 1em auto;
 	font-weight:bold;
 	padding:1em;
+	@media only screen and (max-width: 767px){
+		margin:3.5em auto 0em auto;
+	}
 
 }
 
@@ -807,13 +817,32 @@ ERROR SCREEN
 }
 
 blockquote p {
-font-size: 2em !important;
+font-size: 1.5em ;
 line-height: 1.75em !important;
 color: #fff !important;
 font-style: normal !important;
 padding: 10px 0 10px 0 !important;
 text-align: center !important;
+	@media only screen and (max-width:767px){
+		font-size:1.25em;
+
+	}
 }
 
+body.error p{
+	color:white;
+}
+
+.error footer{
+	margin-top:3em;
+}
+
+.error footer a:link, .error footer a:visited{
+	color:$dark-orange;
+}
+
+.error footer a:hover{
+	color:white;
+}
 
 
