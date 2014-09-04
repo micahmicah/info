@@ -1409,10 +1409,12 @@ footer p {
   color: #666666; }
 
 footer a:link, footer a:visited, .social li a:visited, .social li a:link {
-  color: #666666; }
+  color: #666666;
+  padding-top: 0.2em; }
 
 footer a:hover, footer .social a:hover {
-  color: #ff6633; }
+  color: #ff6633;
+  background: none; }
 
 a.search-result {
   color: #666666;

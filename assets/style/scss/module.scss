@@ -678,10 +678,12 @@ footer p{
 
 footer a:link, footer a:visited, .social li a:visited, .social li a:link{
 	color:$dark-gray;
+	padding-top:0.2em
 }
 
 footer a:hover, footer .social a:hover{
 	color:$orange;
+	background:none;
 }
 
 
