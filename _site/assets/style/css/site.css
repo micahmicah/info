@@ -1389,6 +1389,12 @@ body.login-screen, body.error {
   color: white;
   background: none; }
 
+.login-screen .social svg path, .error .social svg path {
+  fill: #cd3e0b; }
+
+.login-screen .social svg:hover path, .error .social svg:hover path {
+  fill: white; }
+
 /*
 =================================================================
  
@@ -1407,6 +1413,16 @@ footer p {
   font-size: 11px;
   text-transform: uppercase;
   color: #666666; }
+
+footer svg {
+  max-width: 20px;
+  max-height: 15px; }
+
+footer svg path {
+  fill: #666666; }
+
+footer svg:hover path {
+  fill: #ff6633; }
 
 footer a:link, footer a:visited, .social li a:visited, .social li a:link {
   color: #666666;
@@ -1430,6 +1446,8 @@ a.search-result:hover p {
 
 .social li {
   float: left;
+  display: block;
+  width: 20px;
   margin-right: 0.25em; }
 
 /*
